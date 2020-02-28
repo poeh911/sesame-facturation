@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Corte de Carpintería_v1", "Corte de Carpintería_v1\Corte de Carpintería_v1.vdproj", "{3EA6F682-7FAC-4DC3-ADCD-2042A79511AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EA6F682-7FAC-4DC3-ADCD-2042A79511AE}.Debug|Default.ActiveCfg = Debug
+		{3EA6F682-7FAC-4DC3-ADCD-2042A79511AE}.Debug|Default.Build.0 = Debug
+		{3EA6F682-7FAC-4DC3-ADCD-2042A79511AE}.Release|Default.ActiveCfg = Release
+		{3EA6F682-7FAC-4DC3-ADCD-2042A79511AE}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
