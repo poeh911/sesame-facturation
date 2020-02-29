@@ -21978,6 +21978,8 @@ Public Class Form1
         Try
 
             Dim PrintDialog1 As New PrintDialog()
+            PrintDocument1.DefaultPageSettings.Margins.Left = 0
+            PrintDocument1.DefaultPageSettings.Margins.Right = 0
             PrintDialog1.Document = PrintDocument1
             Dim result As DialogResult = PrintDialog1.ShowDialog()
 
