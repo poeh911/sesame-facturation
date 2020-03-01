@@ -2024,7 +2024,7 @@ Partial Class Form1
         Me.TableLayoutPanel1.ColumnStyles.Add(New System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 559.0!))
         Me.TableLayoutPanel1.ColumnStyles.Add(New System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 71.0!))
         Me.TableLayoutPanel1.ColumnStyles.Add(New System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 115.0!))
-        Me.TableLayoutPanel1.ColumnStyles.Add(New System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 155.0!))
+        Me.TableLayoutPanel1.ColumnStyles.Add(New System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 156.0!))
         Me.TableLayoutPanel1.Controls.Add(Me.Label151, 3, 0)
         Me.TableLayoutPanel1.Controls.Add(Me.Label150, 2, 0)
         Me.TableLayoutPanel1.Controls.Add(Me.Label148, 1, 0)
@@ -2033,8 +2033,8 @@ Partial Class Form1
         Me.TableLayoutPanel1.Location = New System.Drawing.Point(146, 219)
         Me.TableLayoutPanel1.Name = "TableLayoutPanel1"
         Me.TableLayoutPanel1.RowCount = 1
-        Me.TableLayoutPanel1.RowStyles.Add(New System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 79.0!))
-        Me.TableLayoutPanel1.RowStyles.Add(New System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 79.0!))
+        Me.TableLayoutPanel1.RowStyles.Add(New System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 80.0!))
+        Me.TableLayoutPanel1.RowStyles.Add(New System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 80.0!))
         Me.TableLayoutPanel1.Size = New System.Drawing.Size(946, 49)
         Me.TableLayoutPanel1.TabIndex = 7
         '
@@ -3519,97 +3519,109 @@ Partial Class Form1
         '
         'tb_email3
         '
-        Me.tb_email3.Location = New System.Drawing.Point(466, 58)
+        Me.tb_email3.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.tb_email3.Location = New System.Drawing.Point(507, 58)
         Me.tb_email3.Name = "tb_email3"
-        Me.tb_email3.Size = New System.Drawing.Size(243, 20)
+        Me.tb_email3.Size = New System.Drawing.Size(336, 29)
         Me.tb_email3.TabIndex = 60
         '
         'tb_tlf3
         '
-        Me.tb_tlf3.Location = New System.Drawing.Point(122, 58)
+        Me.tb_tlf3.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.tb_tlf3.Location = New System.Drawing.Point(155, 58)
         Me.tb_tlf3.Name = "tb_tlf3"
-        Me.tb_tlf3.Size = New System.Drawing.Size(298, 20)
+        Me.tb_tlf3.Size = New System.Drawing.Size(298, 29)
         Me.tb_tlf3.TabIndex = 58
         '
         'tb_cif3
         '
-        Me.tb_cif3.Location = New System.Drawing.Point(466, 32)
+        Me.tb_cif3.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.tb_cif3.Location = New System.Drawing.Point(507, 32)
         Me.tb_cif3.Name = "tb_cif3"
-        Me.tb_cif3.Size = New System.Drawing.Size(243, 20)
+        Me.tb_cif3.Size = New System.Drawing.Size(336, 29)
         Me.tb_cif3.TabIndex = 56
         '
         'tb_direccion3
         '
-        Me.tb_direccion3.Location = New System.Drawing.Point(122, 32)
+        Me.tb_direccion3.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.tb_direccion3.Location = New System.Drawing.Point(155, 32)
         Me.tb_direccion3.Name = "tb_direccion3"
-        Me.tb_direccion3.Size = New System.Drawing.Size(298, 20)
+        Me.tb_direccion3.Size = New System.Drawing.Size(298, 29)
         Me.tb_direccion3.TabIndex = 54
         '
         'tb_dni3
         '
-        Me.tb_dni3.Location = New System.Drawing.Point(466, 6)
+        Me.tb_dni3.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.tb_dni3.Location = New System.Drawing.Point(507, 6)
         Me.tb_dni3.Name = "tb_dni3"
-        Me.tb_dni3.Size = New System.Drawing.Size(243, 20)
+        Me.tb_dni3.Size = New System.Drawing.Size(336, 29)
         Me.tb_dni3.TabIndex = 52
         '
         'tb_nombre3
         '
-        Me.tb_nombre3.Location = New System.Drawing.Point(122, 6)
+        Me.tb_nombre3.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.tb_nombre3.Location = New System.Drawing.Point(155, 6)
         Me.tb_nombre3.Name = "tb_nombre3"
-        Me.tb_nombre3.Size = New System.Drawing.Size(298, 20)
+        Me.tb_nombre3.Size = New System.Drawing.Size(298, 29)
         Me.tb_nombre3.TabIndex = 50
         '
         'Label182
         '
         Me.Label182.AutoSize = True
-        Me.Label182.Location = New System.Drawing.Point(424, 61)
+        Me.Label182.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label182.Location = New System.Drawing.Point(457, 61)
         Me.Label182.Name = "Label182"
-        Me.Label182.Size = New System.Drawing.Size(38, 13)
+        Me.Label182.Size = New System.Drawing.Size(49, 16)
         Me.Label182.TabIndex = 59
         Me.Label182.Text = "E-mail:"
         '
         'Label183
         '
         Me.Label183.AutoSize = True
+        Me.Label183.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label183.Location = New System.Drawing.Point(8, 65)
         Me.Label183.Name = "Label183"
-        Me.Label183.Size = New System.Drawing.Size(112, 13)
+        Me.Label183.Size = New System.Drawing.Size(138, 16)
         Me.Label183.TabIndex = 57
         Me.Label183.Text = "Teléfono de contacto:"
         '
         'Label184
         '
         Me.Label184.AutoSize = True
+        Me.Label184.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label184.Location = New System.Drawing.Point(7, 35)
         Me.Label184.Name = "Label184"
-        Me.Label184.Size = New System.Drawing.Size(109, 13)
+        Me.Label184.Size = New System.Drawing.Size(135, 16)
         Me.Label184.TabIndex = 55
         Me.Label184.Text = "Dirección Instalación:"
         '
         'Label185
         '
         Me.Label185.AutoSize = True
-        Me.Label185.Location = New System.Drawing.Point(425, 35)
+        Me.Label185.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label185.Location = New System.Drawing.Point(458, 35)
         Me.Label185.Name = "Label185"
-        Me.Label185.Size = New System.Drawing.Size(35, 13)
+        Me.Label185.Size = New System.Drawing.Size(40, 16)
         Me.Label185.TabIndex = 53
         Me.Label185.Text = "C.I.F.:"
         '
         'Label186
         '
         Me.Label186.AutoSize = True
-        Me.Label186.Location = New System.Drawing.Point(426, 9)
+        Me.Label186.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label186.Location = New System.Drawing.Point(459, 9)
         Me.Label186.Name = "Label186"
-        Me.Label186.Size = New System.Drawing.Size(29, 13)
+        Me.Label186.Size = New System.Drawing.Size(34, 16)
         Me.Label186.TabIndex = 51
         Me.Label186.Text = "DNI:"
         '
         'Label187
         '
         Me.Label187.AutoSize = True
+        Me.Label187.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label187.Location = New System.Drawing.Point(8, 9)
         Me.Label187.Name = "Label187"
-        Me.Label187.Size = New System.Drawing.Size(47, 13)
+        Me.Label187.Size = New System.Drawing.Size(60, 16)
         Me.Label187.TabIndex = 49
         Me.Label187.Text = "Nombre:"
         '
@@ -3617,7 +3629,7 @@ Partial Class Form1
         '
         Me.btnimprimir2.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.btnimprimir2.ForeColor = System.Drawing.Color.Maroon
-        Me.btnimprimir2.Location = New System.Drawing.Point(39, 87)
+        Me.btnimprimir2.Location = New System.Drawing.Point(39, 99)
         Me.btnimprimir2.Name = "btnimprimir2"
         Me.btnimprimir2.Size = New System.Drawing.Size(123, 29)
         Me.btnimprimir2.TabIndex = 37
@@ -3629,7 +3641,7 @@ Partial Class Form1
         Me.Label167.AutoSize = True
         Me.Label167.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.Label167.Font = New System.Drawing.Font("Arial Rounded MT Bold", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label167.Location = New System.Drawing.Point(298, 91)
+        Me.Label167.Location = New System.Drawing.Point(298, 103)
         Me.Label167.Name = "Label167"
         Me.Label167.Size = New System.Drawing.Size(239, 26)
         Me.Label167.TabIndex = 34
@@ -3639,7 +3651,7 @@ Partial Class Form1
         '
         Me.calcular.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.calcular.ForeColor = System.Drawing.Color.Maroon
-        Me.calcular.Location = New System.Drawing.Point(633, 88)
+        Me.calcular.Location = New System.Drawing.Point(633, 100)
         Me.calcular.Name = "calcular"
         Me.calcular.Size = New System.Drawing.Size(123, 29)
         Me.calcular.TabIndex = 31
@@ -3652,7 +3664,7 @@ Partial Class Form1
         Me.TabControl2.Controls.Add(Me.TabPage2)
         Me.TabControl2.Controls.Add(Me.TabPage3)
         Me.TabControl2.Controls.Add(Me.TabPage4)
-        Me.TabControl2.Location = New System.Drawing.Point(39, 259)
+        Me.TabControl2.Location = New System.Drawing.Point(39, 271)
         Me.TabControl2.Name = "TabControl2"
         Me.TabControl2.SelectedIndex = 0
         Me.TabControl2.Size = New System.Drawing.Size(1121, 748)
@@ -3723,50 +3735,54 @@ Partial Class Form1
         '
         'au16text
         '
-        Me.au16text.Location = New System.Drawing.Point(406, 166)
+        Me.au16text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.au16text.Location = New System.Drawing.Point(406, 178)
         Me.au16text.Name = "au16text"
-        Me.au16text.Size = New System.Drawing.Size(79, 20)
+        Me.au16text.Size = New System.Drawing.Size(78, 29)
         Me.au16text.TabIndex = 71
         '
         'a16text
         '
-        Me.a16text.Location = New System.Drawing.Point(262, 166)
+        Me.a16text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.a16text.Location = New System.Drawing.Point(277, 176)
         Me.a16text.Name = "a16text"
-        Me.a16text.Size = New System.Drawing.Size(94, 20)
+        Me.a16text.Size = New System.Drawing.Size(95, 29)
         Me.a16text.TabIndex = 69
         '
         'Label222
         '
         Me.Label222.AutoSize = True
-        Me.Label222.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label222.Location = New System.Drawing.Point(34, 169)
+        Me.Label222.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label222.Location = New System.Drawing.Point(34, 183)
         Me.Label222.Name = "Label222"
-        Me.Label222.Size = New System.Drawing.Size(138, 13)
+        Me.Label222.Size = New System.Drawing.Size(175, 16)
         Me.Label222.TabIndex = 70
         Me.Label222.Text = "Cortavientos TES para obra"
         '
         'au17text
         '
-        Me.au17text.Location = New System.Drawing.Point(406, 141)
+        Me.au17text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.au17text.Location = New System.Drawing.Point(406, 150)
         Me.au17text.Name = "au17text"
-        Me.au17text.Size = New System.Drawing.Size(78, 20)
+        Me.au17text.Size = New System.Drawing.Size(78, 29)
         Me.au17text.TabIndex = 68
         '
         'Label223
         '
         Me.Label223.AutoSize = True
-        Me.Label223.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label223.Location = New System.Drawing.Point(34, 144)
+        Me.Label223.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label223.Location = New System.Drawing.Point(34, 156)
         Me.Label223.Name = "Label223"
-        Me.Label223.Size = New System.Drawing.Size(90, 13)
+        Me.Label223.Size = New System.Drawing.Size(113, 16)
         Me.Label223.TabIndex = 66
         Me.Label223.Text = "Cortavientos TES"
         '
         'a17text
         '
-        Me.a17text.Location = New System.Drawing.Point(261, 141)
+        Me.a17text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.a17text.Location = New System.Drawing.Point(277, 148)
         Me.a17text.Name = "a17text"
-        Me.a17text.Size = New System.Drawing.Size(95, 20)
+        Me.a17text.Size = New System.Drawing.Size(95, 29)
         Me.a17text.TabIndex = 67
         '
         'Panel11
@@ -3796,291 +3812,314 @@ Partial Class Form1
         'Label190
         '
         Me.Label190.AutoSize = True
-        Me.Label190.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label190.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label190.Location = New System.Drawing.Point(208, 11)
         Me.Label190.Name = "Label190"
-        Me.Label190.Size = New System.Drawing.Size(103, 13)
+        Me.Label190.Size = New System.Drawing.Size(124, 16)
         Me.Label190.TabIndex = 48
         Me.Label190.Text = "Hoja Móvil Lenta"
         '
         'au15text
         '
-        Me.au15text.Location = New System.Drawing.Point(339, 148)
+        Me.au15text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.au15text.Location = New System.Drawing.Point(339, 159)
         Me.au15text.Name = "au15text"
-        Me.au15text.Size = New System.Drawing.Size(69, 20)
+        Me.au15text.Size = New System.Drawing.Size(69, 29)
         Me.au15text.TabIndex = 64
         '
         'a11text
         '
-        Me.a11text.Location = New System.Drawing.Point(225, 45)
+        Me.a11text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.a11text.Location = New System.Drawing.Point(247, 47)
         Me.a11text.Name = "a11text"
-        Me.a11text.Size = New System.Drawing.Size(69, 20)
+        Me.a11text.Size = New System.Drawing.Size(69, 29)
         Me.a11text.TabIndex = 49
         '
         'a15text
         '
-        Me.a15text.Location = New System.Drawing.Point(225, 148)
+        Me.a15text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.a15text.Location = New System.Drawing.Point(247, 159)
         Me.a15text.Name = "a15text"
-        Me.a15text.Size = New System.Drawing.Size(69, 20)
+        Me.a15text.Size = New System.Drawing.Size(69, 29)
         Me.a15text.TabIndex = 63
         '
         'Label191
         '
         Me.Label191.AutoSize = True
-        Me.Label191.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label191.Location = New System.Drawing.Point(341, 11)
+        Me.Label191.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label191.Location = New System.Drawing.Point(339, 11)
         Me.Label191.Name = "Label191"
-        Me.Label191.Size = New System.Drawing.Size(60, 13)
+        Me.Label191.Size = New System.Drawing.Size(75, 16)
         Me.Label191.TabIndex = 50
         Me.Label191.Text = "Unidades"
         '
         'Label196
         '
         Me.Label196.AutoSize = True
-        Me.Label196.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label196.Location = New System.Drawing.Point(5, 151)
+        Me.Label196.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label196.Location = New System.Drawing.Point(5, 160)
         Me.Label196.Name = "Label196"
-        Me.Label196.Size = New System.Drawing.Size(90, 13)
+        Me.Label196.Size = New System.Drawing.Size(113, 16)
         Me.Label196.TabIndex = 62
         Me.Label196.Text = "Cortavientos TES"
         '
         'au11text
         '
-        Me.au11text.Location = New System.Drawing.Point(339, 45)
+        Me.au11text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.au11text.Location = New System.Drawing.Point(339, 47)
         Me.au11text.Name = "au11text"
-        Me.au11text.Size = New System.Drawing.Size(69, 20)
+        Me.au11text.Size = New System.Drawing.Size(69, 29)
         Me.au11text.TabIndex = 51
         '
         'Label195
         '
         Me.Label195.AutoSize = True
-        Me.Label195.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label195.Location = New System.Drawing.Point(5, 125)
+        Me.Label195.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label195.Location = New System.Drawing.Point(5, 135)
         Me.Label195.Name = "Label195"
-        Me.Label195.Size = New System.Drawing.Size(145, 13)
+        Me.Label195.Size = New System.Drawing.Size(183, 16)
         Me.Label195.TabIndex = 61
         Me.Label195.Text = "Portafelpudos inferior para MI"
         '
         'a12text
         '
-        Me.a12text.Location = New System.Drawing.Point(225, 71)
+        Me.a12text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.a12text.Location = New System.Drawing.Point(247, 75)
         Me.a12text.Name = "a12text"
-        Me.a12text.Size = New System.Drawing.Size(69, 20)
+        Me.a12text.Size = New System.Drawing.Size(69, 29)
         Me.a12text.TabIndex = 52
         '
         'Label194
         '
         Me.Label194.AutoSize = True
-        Me.Label194.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label194.Location = New System.Drawing.Point(5, 99)
+        Me.Label194.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label194.Location = New System.Drawing.Point(5, 106)
         Me.Label194.Name = "Label194"
-        Me.Label194.Size = New System.Drawing.Size(129, 13)
+        Me.Label194.Size = New System.Drawing.Size(160, 16)
         Me.Label194.TabIndex = 60
         Me.Label194.Text = "Portafelpudos 25 x 23 mm"
         '
         'au12text
         '
-        Me.au12text.Location = New System.Drawing.Point(339, 71)
+        Me.au12text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.au12text.Location = New System.Drawing.Point(339, 75)
         Me.au12text.Name = "au12text"
-        Me.au12text.Size = New System.Drawing.Size(69, 20)
+        Me.au12text.Size = New System.Drawing.Size(69, 29)
         Me.au12text.TabIndex = 53
         '
         'Label193
         '
         Me.Label193.AutoSize = True
-        Me.Label193.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label193.Location = New System.Drawing.Point(5, 74)
+        Me.Label193.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label193.Location = New System.Drawing.Point(5, 79)
         Me.Label193.Name = "Label193"
-        Me.Label193.Size = New System.Drawing.Size(193, 13)
+        Me.Label193.Size = New System.Drawing.Size(238, 16)
         Me.Label193.TabIndex = 59
         Me.Label193.Text = "Perfil Horizontal mod. MI de 74 x 25 mm"
         '
         'a13text
         '
-        Me.a13text.Location = New System.Drawing.Point(225, 96)
+        Me.a13text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.a13text.Location = New System.Drawing.Point(247, 103)
         Me.a13text.Name = "a13text"
-        Me.a13text.Size = New System.Drawing.Size(69, 20)
+        Me.a13text.Size = New System.Drawing.Size(69, 29)
         Me.a13text.TabIndex = 54
         '
         'Label192
         '
         Me.Label192.AutoSize = True
-        Me.Label192.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label192.Location = New System.Drawing.Point(5, 48)
+        Me.Label192.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label192.Location = New System.Drawing.Point(5, 51)
         Me.Label192.Name = "Label192"
-        Me.Label192.Size = New System.Drawing.Size(178, 13)
+        Me.Label192.Size = New System.Drawing.Size(219, 16)
         Me.Label192.TabIndex = 58
         Me.Label192.Text = "Perfil Lateral mod. MI de 40 x 25 mm"
         '
         'au13text
         '
-        Me.au13text.Location = New System.Drawing.Point(339, 96)
+        Me.au13text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.au13text.Location = New System.Drawing.Point(339, 103)
         Me.au13text.Name = "au13text"
-        Me.au13text.Size = New System.Drawing.Size(69, 20)
+        Me.au13text.Size = New System.Drawing.Size(69, 29)
         Me.au13text.TabIndex = 55
         '
         'au14text
         '
-        Me.au14text.Location = New System.Drawing.Point(339, 122)
+        Me.au14text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.au14text.Location = New System.Drawing.Point(339, 131)
         Me.au14text.Name = "au14text"
-        Me.au14text.Size = New System.Drawing.Size(69, 20)
+        Me.au14text.Size = New System.Drawing.Size(69, 29)
         Me.au14text.TabIndex = 57
         '
         'a14text
         '
-        Me.a14text.Location = New System.Drawing.Point(225, 122)
+        Me.a14text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.a14text.Location = New System.Drawing.Point(247, 131)
         Me.a14text.Name = "a14text"
-        Me.a14text.Size = New System.Drawing.Size(69, 20)
+        Me.a14text.Size = New System.Drawing.Size(69, 29)
         Me.a14text.TabIndex = 56
         '
         'Label189
         '
         Me.Label189.AutoSize = True
-        Me.Label189.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label189.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label189.Location = New System.Drawing.Point(274, 216)
         Me.Label189.Name = "Label189"
-        Me.Label189.Size = New System.Drawing.Size(47, 13)
+        Me.Label189.Size = New System.Drawing.Size(59, 16)
         Me.Label189.TabIndex = 47
         Me.Label189.Text = "Rápida"
         '
         'au10text
         '
-        Me.au10text.Location = New System.Drawing.Point(406, 427)
+        Me.au10text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.au10text.Location = New System.Drawing.Point(406, 441)
         Me.au10text.Name = "au10text"
-        Me.au10text.Size = New System.Drawing.Size(78, 20)
+        Me.au10text.Size = New System.Drawing.Size(78, 29)
         Me.au10text.TabIndex = 46
         '
         'au9text
         '
-        Me.au9text.Location = New System.Drawing.Point(406, 401)
+        Me.au9text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.au9text.Location = New System.Drawing.Point(406, 413)
         Me.au9text.Name = "au9text"
-        Me.au9text.Size = New System.Drawing.Size(78, 20)
+        Me.au9text.Size = New System.Drawing.Size(78, 29)
         Me.au9text.TabIndex = 45
         '
         'au8text
         '
-        Me.au8text.Location = New System.Drawing.Point(406, 376)
+        Me.au8text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.au8text.Location = New System.Drawing.Point(406, 385)
         Me.au8text.Name = "au8text"
-        Me.au8text.Size = New System.Drawing.Size(78, 20)
+        Me.au8text.Size = New System.Drawing.Size(78, 29)
         Me.au8text.TabIndex = 44
         '
         'au7text
         '
-        Me.au7text.Location = New System.Drawing.Point(406, 317)
+        Me.au7text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.au7text.Location = New System.Drawing.Point(406, 325)
         Me.au7text.Name = "au7text"
-        Me.au7text.Size = New System.Drawing.Size(78, 20)
+        Me.au7text.Size = New System.Drawing.Size(78, 29)
         Me.au7text.TabIndex = 43
         '
         'au6text
         '
-        Me.au6text.Location = New System.Drawing.Point(406, 291)
+        Me.au6text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.au6text.Location = New System.Drawing.Point(406, 297)
         Me.au6text.Name = "au6text"
-        Me.au6text.Size = New System.Drawing.Size(78, 20)
+        Me.au6text.Size = New System.Drawing.Size(78, 29)
         Me.au6text.TabIndex = 42
         '
         'au5text
         '
-        Me.au5text.Location = New System.Drawing.Point(406, 266)
+        Me.au5text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.au5text.Location = New System.Drawing.Point(406, 269)
         Me.au5text.Name = "au5text"
-        Me.au5text.Size = New System.Drawing.Size(78, 20)
+        Me.au5text.Size = New System.Drawing.Size(78, 29)
         Me.au5text.TabIndex = 41
         '
         'au4text
         '
-        Me.au4text.Location = New System.Drawing.Point(406, 240)
+        Me.au4text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.au4text.Location = New System.Drawing.Point(406, 241)
         Me.au4text.Name = "au4text"
-        Me.au4text.Size = New System.Drawing.Size(78, 20)
+        Me.au4text.Size = New System.Drawing.Size(78, 29)
         Me.au4text.TabIndex = 40
         '
         'au3text
         '
-        Me.au3text.Location = New System.Drawing.Point(406, 115)
+        Me.au3text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.au3text.Location = New System.Drawing.Point(406, 122)
         Me.au3text.Name = "au3text"
-        Me.au3text.Size = New System.Drawing.Size(78, 20)
+        Me.au3text.Size = New System.Drawing.Size(78, 29)
         Me.au3text.TabIndex = 39
         '
         'au2text
         '
-        Me.au2text.Location = New System.Drawing.Point(406, 86)
+        Me.au2text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.au2text.Location = New System.Drawing.Point(406, 94)
         Me.au2text.Name = "au2text"
-        Me.au2text.Size = New System.Drawing.Size(78, 20)
+        Me.au2text.Size = New System.Drawing.Size(78, 29)
         Me.au2text.TabIndex = 38
         '
         'au1text
         '
-        Me.au1text.Location = New System.Drawing.Point(406, 60)
+        Me.au1text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.au1text.Location = New System.Drawing.Point(406, 66)
         Me.au1text.Name = "au1text"
-        Me.au1text.Size = New System.Drawing.Size(78, 20)
+        Me.au1text.Size = New System.Drawing.Size(78, 29)
         Me.au1text.TabIndex = 37
         '
         'Label109
         '
         Me.Label109.AutoSize = True
-        Me.Label109.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label109.Location = New System.Drawing.Point(399, 38)
+        Me.Label109.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label109.Location = New System.Drawing.Point(405, 38)
         Me.Label109.Name = "Label109"
-        Me.Label109.Size = New System.Drawing.Size(60, 13)
+        Me.Label109.Size = New System.Drawing.Size(75, 16)
         Me.Label109.TabIndex = 30
         Me.Label109.Text = "Unidades"
         '
         'Label104
         '
         Me.Label104.AutoSize = True
-        Me.Label104.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label104.Location = New System.Drawing.Point(131, 350)
+        Me.Label104.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label104.Location = New System.Drawing.Point(131, 359)
         Me.Label104.Name = "Label104"
-        Me.Label104.Size = New System.Drawing.Size(146, 13)
+        Me.Label104.Size = New System.Drawing.Size(180, 16)
         Me.Label104.TabIndex = 36
         Me.Label104.Text = "Perfiles de revestimiento"
         '
         'Label103
         '
         Me.Label103.AutoSize = True
-        Me.Label103.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label103.Location = New System.Drawing.Point(34, 430)
+        Me.Label103.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label103.Location = New System.Drawing.Point(34, 445)
         Me.Label103.Name = "Label103"
-        Me.Label103.Size = New System.Drawing.Size(177, 13)
+        Me.Label103.Size = New System.Drawing.Size(207, 16)
         Me.Label103.TabIndex = 35
         Me.Label103.Text = "Tapa para MI14/50/75/100/VSLIM"
         '
         'a10text
         '
-        Me.a10text.Location = New System.Drawing.Point(261, 427)
+        Me.a10text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.a10text.Location = New System.Drawing.Point(278, 441)
         Me.a10text.Name = "a10text"
-        Me.a10text.Size = New System.Drawing.Size(95, 20)
+        Me.a10text.Size = New System.Drawing.Size(95, 29)
         Me.a10text.TabIndex = 34
         '
         'a9text
         '
-        Me.a9text.Location = New System.Drawing.Point(261, 401)
+        Me.a9text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.a9text.Location = New System.Drawing.Point(278, 413)
         Me.a9text.Name = "a9text"
-        Me.a9text.Size = New System.Drawing.Size(95, 20)
+        Me.a9text.Size = New System.Drawing.Size(95, 29)
         Me.a9text.TabIndex = 33
         '
         'Label102
         '
         Me.Label102.AutoSize = True
-        Me.Label102.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label102.Location = New System.Drawing.Point(34, 404)
+        Me.Label102.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label102.Location = New System.Drawing.Point(34, 416)
         Me.Label102.Name = "Label102"
-        Me.Label102.Size = New System.Drawing.Size(172, 13)
+        Me.Label102.Size = New System.Drawing.Size(198, 16)
         Me.Label102.TabIndex = 32
         Me.Label102.Text = "Raíl para MI14/50/75/100/VSLIM"
         '
         'a8text
         '
-        Me.a8text.Location = New System.Drawing.Point(261, 376)
+        Me.a8text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.a8text.Location = New System.Drawing.Point(278, 385)
         Me.a8text.Name = "a8text"
-        Me.a8text.Size = New System.Drawing.Size(95, 20)
+        Me.a8text.Size = New System.Drawing.Size(95, 29)
         Me.a8text.TabIndex = 31
         '
         'Label101
         '
         Me.Label101.AutoSize = True
-        Me.Label101.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label101.Location = New System.Drawing.Point(34, 379)
+        Me.Label101.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label101.Location = New System.Drawing.Point(34, 388)
         Me.Label101.Name = "Label101"
-        Me.Label101.Size = New System.Drawing.Size(111, 13)
+        Me.Label101.Size = New System.Drawing.Size(140, 16)
         Me.Label101.TabIndex = 30
         Me.Label101.Text = "Cortavientos universal"
         '
@@ -4096,140 +4135,147 @@ Partial Class Form1
         '
         'a7text
         '
-        Me.a7text.Location = New System.Drawing.Point(261, 317)
+        Me.a7text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.a7text.Location = New System.Drawing.Point(278, 325)
         Me.a7text.Name = "a7text"
-        Me.a7text.Size = New System.Drawing.Size(95, 20)
+        Me.a7text.Size = New System.Drawing.Size(95, 29)
         Me.a7text.TabIndex = 27
         '
         'Label48
         '
         Me.Label48.AutoSize = True
-        Me.Label48.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label48.Location = New System.Drawing.Point(34, 320)
+        Me.Label48.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label48.Location = New System.Drawing.Point(34, 331)
         Me.Label48.Name = "Label48"
-        Me.Label48.Size = New System.Drawing.Size(145, 13)
+        Me.Label48.Size = New System.Drawing.Size(183, 16)
         Me.Label48.TabIndex = 26
         Me.Label48.Text = "Portafelpudos inferior para MI"
         '
         'a6text
         '
-        Me.a6text.Location = New System.Drawing.Point(261, 291)
+        Me.a6text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.a6text.Location = New System.Drawing.Point(278, 297)
         Me.a6text.Name = "a6text"
-        Me.a6text.Size = New System.Drawing.Size(95, 20)
+        Me.a6text.Size = New System.Drawing.Size(95, 29)
         Me.a6text.TabIndex = 25
         '
         'Label47
         '
         Me.Label47.AutoSize = True
-        Me.Label47.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label47.Location = New System.Drawing.Point(34, 294)
+        Me.Label47.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label47.Location = New System.Drawing.Point(34, 305)
         Me.Label47.Name = "Label47"
-        Me.Label47.Size = New System.Drawing.Size(129, 13)
+        Me.Label47.Size = New System.Drawing.Size(160, 16)
         Me.Label47.TabIndex = 24
         Me.Label47.Text = "Portafelpudos 25 x 23 mm"
         '
         'a5text
         '
-        Me.a5text.Location = New System.Drawing.Point(261, 266)
+        Me.a5text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.a5text.Location = New System.Drawing.Point(278, 269)
         Me.a5text.Name = "a5text"
-        Me.a5text.Size = New System.Drawing.Size(95, 20)
+        Me.a5text.Size = New System.Drawing.Size(95, 29)
         Me.a5text.TabIndex = 23
         '
         'Label46
         '
         Me.Label46.AutoSize = True
-        Me.Label46.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label46.Location = New System.Drawing.Point(34, 269)
+        Me.Label46.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label46.Location = New System.Drawing.Point(34, 275)
         Me.Label46.Name = "Label46"
-        Me.Label46.Size = New System.Drawing.Size(193, 13)
+        Me.Label46.Size = New System.Drawing.Size(238, 16)
         Me.Label46.TabIndex = 22
         Me.Label46.Text = "Perfil Horizontal mod. MI de 74 x 25 mm"
         '
         'a4text
         '
-        Me.a4text.Location = New System.Drawing.Point(261, 240)
+        Me.a4text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.a4text.Location = New System.Drawing.Point(278, 241)
         Me.a4text.Name = "a4text"
-        Me.a4text.Size = New System.Drawing.Size(95, 20)
+        Me.a4text.Size = New System.Drawing.Size(95, 29)
         Me.a4text.TabIndex = 21
         '
         'Label45
         '
         Me.Label45.AutoSize = True
-        Me.Label45.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label45.Location = New System.Drawing.Point(34, 243)
+        Me.Label45.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label45.Location = New System.Drawing.Point(34, 247)
         Me.Label45.Name = "Label45"
-        Me.Label45.Size = New System.Drawing.Size(178, 13)
+        Me.Label45.Size = New System.Drawing.Size(219, 16)
         Me.Label45.TabIndex = 20
         Me.Label45.Text = "Perfil Lateral mod. MI de 40 x 25 mm"
         '
         'Label44
         '
         Me.Label44.AutoSize = True
-        Me.Label44.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label44.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label44.Location = New System.Drawing.Point(211, 216)
         Me.Label44.Name = "Label44"
-        Me.Label44.Size = New System.Drawing.Size(67, 13)
+        Me.Label44.Size = New System.Drawing.Size(82, 16)
         Me.Label44.TabIndex = 19
         Me.Label44.Text = "Hoja Móvil"
         '
         'Label43
         '
         Me.Label43.AutoSize = True
-        Me.Label43.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label43.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label43.Location = New System.Drawing.Point(173, 38)
         Me.Label43.Name = "Label43"
-        Me.Label43.Size = New System.Drawing.Size(57, 13)
+        Me.Label43.Size = New System.Drawing.Size(71, 16)
         Me.Label43.TabIndex = 18
         Me.Label43.Text = "Hoja Fija"
         '
         'a3text
         '
-        Me.a3text.Location = New System.Drawing.Point(261, 115)
+        Me.a3text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.a3text.Location = New System.Drawing.Point(277, 120)
         Me.a3text.Name = "a3text"
-        Me.a3text.Size = New System.Drawing.Size(95, 20)
+        Me.a3text.Size = New System.Drawing.Size(95, 29)
         Me.a3text.TabIndex = 17
         '
         'Label42
         '
         Me.Label42.AutoSize = True
-        Me.Label42.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label42.Location = New System.Drawing.Point(34, 118)
+        Me.Label42.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label42.Location = New System.Drawing.Point(34, 126)
         Me.Label42.Name = "Label42"
-        Me.Label42.Size = New System.Drawing.Size(160, 13)
+        Me.Label42.Size = New System.Drawing.Size(200, 16)
         Me.Label42.TabIndex = 16
         Me.Label42.Text = "Portafelpudos lateral 25 x 10 mm"
         '
         'a2text
         '
-        Me.a2text.Location = New System.Drawing.Point(261, 86)
+        Me.a2text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.a2text.Location = New System.Drawing.Point(277, 92)
         Me.a2text.Name = "a2text"
-        Me.a2text.Size = New System.Drawing.Size(95, 20)
+        Me.a2text.Size = New System.Drawing.Size(95, 29)
         Me.a2text.TabIndex = 15
         '
         'Label41
         '
         Me.Label41.AutoSize = True
-        Me.Label41.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label41.Location = New System.Drawing.Point(34, 89)
+        Me.Label41.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label41.Location = New System.Drawing.Point(34, 98)
         Me.Label41.Name = "Label41"
-        Me.Label41.Size = New System.Drawing.Size(193, 13)
+        Me.Label41.Size = New System.Drawing.Size(238, 16)
         Me.Label41.TabIndex = 14
         Me.Label41.Text = "Perfil Horizontal mod. MI de 74 x 25 mm"
         '
         'a1text
         '
-        Me.a1text.Location = New System.Drawing.Point(261, 60)
+        Me.a1text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.a1text.Location = New System.Drawing.Point(277, 64)
         Me.a1text.Name = "a1text"
-        Me.a1text.Size = New System.Drawing.Size(95, 20)
+        Me.a1text.Size = New System.Drawing.Size(95, 29)
         Me.a1text.TabIndex = 13
         '
         'Label40
         '
         Me.Label40.AutoSize = True
-        Me.Label40.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label40.Location = New System.Drawing.Point(34, 63)
+        Me.Label40.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label40.Location = New System.Drawing.Point(34, 69)
         Me.Label40.Name = "Label40"
-        Me.Label40.Size = New System.Drawing.Size(178, 13)
+        Me.Label40.Size = New System.Drawing.Size(219, 16)
         Me.Label40.TabIndex = 12
         Me.Label40.Text = "Perfil Lateral mod. MI de 40 x 25 mm"
         '
@@ -4295,10 +4341,10 @@ Partial Class Form1
         'Label198
         '
         Me.Label198.AutoSize = True
-        Me.Label198.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label198.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label198.Location = New System.Drawing.Point(236, 169)
         Me.Label198.Name = "Label198"
-        Me.Label198.Size = New System.Drawing.Size(47, 13)
+        Me.Label198.Size = New System.Drawing.Size(59, 16)
         Me.Label198.TabIndex = 50
         Me.Label198.Text = "Rápida"
         '
@@ -4326,281 +4372,304 @@ Partial Class Form1
         'Label203
         '
         Me.Label203.AutoSize = True
-        Me.Label203.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label203.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label203.Location = New System.Drawing.Point(5, 123)
         Me.Label203.Name = "Label203"
-        Me.Label203.Size = New System.Drawing.Size(230, 13)
+        Me.Label203.Size = New System.Drawing.Size(270, 15)
         Me.Label203.TabIndex = 54
         Me.Label203.Text = "Perfil Horizontal Inferior mod. FG de 20 x 74 mm"
         '
         'Label202
         '
         Me.Label202.AutoSize = True
-        Me.Label202.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label202.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label202.Location = New System.Drawing.Point(5, 93)
         Me.Label202.Name = "Label202"
-        Me.Label202.Size = New System.Drawing.Size(237, 13)
+        Me.Label202.Size = New System.Drawing.Size(279, 15)
         Me.Label202.TabIndex = 53
         Me.Label202.Text = "Perfil Horizontal Superior mod. FG de 20 x 80 mm"
         '
         'Label201
         '
         Me.Label201.AutoSize = True
-        Me.Label201.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label201.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label201.Location = New System.Drawing.Point(5, 64)
         Me.Label201.Name = "Label201"
-        Me.Label201.Size = New System.Drawing.Size(228, 13)
+        Me.Label201.Size = New System.Drawing.Size(265, 15)
         Me.Label201.TabIndex = 52
         Me.Label201.Text = "Perfil Vertical Central mod. FG de 20 x 15,5 mm"
         '
         'Label200
         '
         Me.Label200.AutoSize = True
-        Me.Label200.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label200.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label200.Location = New System.Drawing.Point(5, 36)
         Me.Label200.Name = "Label200"
-        Me.Label200.Size = New System.Drawing.Size(218, 13)
+        Me.Label200.Size = New System.Drawing.Size(254, 15)
         Me.Label200.TabIndex = 51
         Me.Label200.Text = "Perfil Vertical Lateral mod. FG de 20 x 31 mm"
         '
         'bu15text
         '
-        Me.bu15text.Location = New System.Drawing.Point(388, 120)
+        Me.bu15text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.bu15text.Location = New System.Drawing.Point(392, 117)
         Me.bu15text.Name = "bu15text"
-        Me.bu15text.Size = New System.Drawing.Size(79, 20)
+        Me.bu15text.Size = New System.Drawing.Size(79, 29)
         Me.bu15text.TabIndex = 50
         '
         'bu14text
         '
-        Me.bu14text.Location = New System.Drawing.Point(388, 90)
+        Me.bu14text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.bu14text.Location = New System.Drawing.Point(392, 89)
         Me.bu14text.Name = "bu14text"
-        Me.bu14text.Size = New System.Drawing.Size(79, 20)
+        Me.bu14text.Size = New System.Drawing.Size(79, 29)
         Me.bu14text.TabIndex = 49
         '
         'bu13text
         '
-        Me.bu13text.Location = New System.Drawing.Point(388, 61)
+        Me.bu13text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.bu13text.Location = New System.Drawing.Point(392, 61)
         Me.bu13text.Name = "bu13text"
-        Me.bu13text.Size = New System.Drawing.Size(79, 20)
+        Me.bu13text.Size = New System.Drawing.Size(79, 29)
         Me.bu13text.TabIndex = 48
         '
         'b15text
         '
-        Me.b15text.Location = New System.Drawing.Point(248, 120)
+        Me.b15text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.b15text.Location = New System.Drawing.Point(284, 117)
         Me.b15text.Name = "b15text"
-        Me.b15text.Size = New System.Drawing.Size(95, 20)
+        Me.b15text.Size = New System.Drawing.Size(95, 29)
         Me.b15text.TabIndex = 47
         '
         'b14text
         '
-        Me.b14text.Location = New System.Drawing.Point(248, 90)
+        Me.b14text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.b14text.Location = New System.Drawing.Point(284, 89)
         Me.b14text.Name = "b14text"
-        Me.b14text.Size = New System.Drawing.Size(95, 20)
+        Me.b14text.Size = New System.Drawing.Size(95, 29)
         Me.b14text.TabIndex = 46
         '
         'b13text
         '
-        Me.b13text.Location = New System.Drawing.Point(248, 61)
+        Me.b13text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.b13text.Location = New System.Drawing.Point(284, 61)
         Me.b13text.Name = "b13text"
-        Me.b13text.Size = New System.Drawing.Size(95, 20)
+        Me.b13text.Size = New System.Drawing.Size(95, 29)
         Me.b13text.TabIndex = 45
         '
         'Label199
         '
         Me.Label199.AutoSize = True
-        Me.Label199.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label199.Location = New System.Drawing.Point(407, 12)
+        Me.Label199.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label199.Location = New System.Drawing.Point(394, 12)
         Me.Label199.Name = "Label199"
-        Me.Label199.Size = New System.Drawing.Size(60, 13)
+        Me.Label199.Size = New System.Drawing.Size(75, 16)
         Me.Label199.TabIndex = 44
         Me.Label199.Text = "Unidades"
         '
         'Label197
         '
         Me.Label197.AutoSize = True
-        Me.Label197.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label197.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label197.Location = New System.Drawing.Point(188, 12)
         Me.Label197.Name = "Label197"
-        Me.Label197.Size = New System.Drawing.Size(103, 13)
+        Me.Label197.Size = New System.Drawing.Size(124, 16)
         Me.Label197.TabIndex = 43
         Me.Label197.Text = "Hoja Móvil Lenta"
         '
         'bu12text
         '
-        Me.bu12text.Location = New System.Drawing.Point(388, 33)
+        Me.bu12text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.bu12text.Location = New System.Drawing.Point(392, 33)
         Me.bu12text.Name = "bu12text"
-        Me.bu12text.Size = New System.Drawing.Size(79, 20)
+        Me.bu12text.Size = New System.Drawing.Size(79, 29)
         Me.bu12text.TabIndex = 42
         '
         'b12text
         '
-        Me.b12text.Location = New System.Drawing.Point(248, 33)
+        Me.b12text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.b12text.Location = New System.Drawing.Point(284, 33)
         Me.b12text.Name = "b12text"
-        Me.b12text.Size = New System.Drawing.Size(95, 20)
+        Me.b12text.Size = New System.Drawing.Size(95, 29)
         Me.b12text.TabIndex = 22
         '
         'bu11text
         '
-        Me.bu11text.Location = New System.Drawing.Point(430, 430)
+        Me.bu11text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.bu11text.Location = New System.Drawing.Point(444, 435)
         Me.bu11text.Name = "bu11text"
-        Me.bu11text.Size = New System.Drawing.Size(79, 20)
+        Me.bu11text.Size = New System.Drawing.Size(79, 29)
         Me.bu11text.TabIndex = 48
         '
         'bu10text
         '
-        Me.bu10text.Location = New System.Drawing.Point(430, 404)
+        Me.bu10text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.bu10text.Location = New System.Drawing.Point(444, 407)
         Me.bu10text.Name = "bu10text"
-        Me.bu10text.Size = New System.Drawing.Size(79, 20)
+        Me.bu10text.Size = New System.Drawing.Size(79, 29)
         Me.bu10text.TabIndex = 47
         '
         'bu9text
         '
-        Me.bu9text.Location = New System.Drawing.Point(430, 378)
+        Me.bu9text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.bu9text.Location = New System.Drawing.Point(444, 379)
         Me.bu9text.Name = "bu9text"
-        Me.bu9text.Size = New System.Drawing.Size(79, 20)
+        Me.bu9text.Size = New System.Drawing.Size(79, 29)
         Me.bu9text.TabIndex = 46
         '
         'bu8text
         '
-        Me.bu8text.Location = New System.Drawing.Point(430, 353)
+        Me.bu8text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.bu8text.Location = New System.Drawing.Point(444, 351)
         Me.bu8text.Name = "bu8text"
-        Me.bu8text.Size = New System.Drawing.Size(79, 20)
+        Me.bu8text.Size = New System.Drawing.Size(79, 29)
         Me.bu8text.TabIndex = 45
         '
         'bu7text
         '
-        Me.bu7text.Location = New System.Drawing.Point(430, 277)
+        Me.bu7text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.bu7text.Location = New System.Drawing.Point(444, 274)
         Me.bu7text.Name = "bu7text"
-        Me.bu7text.Size = New System.Drawing.Size(79, 20)
+        Me.bu7text.Size = New System.Drawing.Size(79, 29)
         Me.bu7text.TabIndex = 44
         '
         'bu6text
         '
-        Me.bu6text.Location = New System.Drawing.Point(430, 247)
+        Me.bu6text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.bu6text.Location = New System.Drawing.Point(444, 246)
         Me.bu6text.Name = "bu6text"
-        Me.bu6text.Size = New System.Drawing.Size(79, 20)
+        Me.bu6text.Size = New System.Drawing.Size(79, 29)
         Me.bu6text.TabIndex = 43
         '
         'bu5text
         '
-        Me.bu5text.Location = New System.Drawing.Point(430, 218)
+        Me.bu5text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.bu5text.Location = New System.Drawing.Point(444, 218)
         Me.bu5text.Name = "bu5text"
-        Me.bu5text.Size = New System.Drawing.Size(79, 20)
+        Me.bu5text.Size = New System.Drawing.Size(79, 29)
         Me.bu5text.TabIndex = 42
         '
         'bu4text
         '
-        Me.bu4text.Location = New System.Drawing.Point(430, 190)
+        Me.bu4text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.bu4text.Location = New System.Drawing.Point(444, 190)
         Me.bu4text.Name = "bu4text"
-        Me.bu4text.Size = New System.Drawing.Size(79, 20)
+        Me.bu4text.Size = New System.Drawing.Size(79, 29)
         Me.bu4text.TabIndex = 41
         '
         'bu3text
         '
-        Me.bu3text.Location = New System.Drawing.Point(430, 127)
+        Me.bu3text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.bu3text.Location = New System.Drawing.Point(444, 127)
         Me.bu3text.Name = "bu3text"
-        Me.bu3text.Size = New System.Drawing.Size(79, 20)
+        Me.bu3text.Size = New System.Drawing.Size(79, 29)
         Me.bu3text.TabIndex = 40
         '
         'bu2text
         '
-        Me.bu2text.Location = New System.Drawing.Point(430, 98)
+        Me.bu2text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.bu2text.Location = New System.Drawing.Point(444, 99)
         Me.bu2text.Name = "bu2text"
-        Me.bu2text.Size = New System.Drawing.Size(79, 20)
+        Me.bu2text.Size = New System.Drawing.Size(79, 29)
         Me.bu2text.TabIndex = 38
         '
         'bu1text
         '
-        Me.bu1text.Location = New System.Drawing.Point(430, 72)
+        Me.bu1text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.bu1text.Location = New System.Drawing.Point(444, 72)
         Me.bu1text.Name = "bu1text"
-        Me.bu1text.Size = New System.Drawing.Size(79, 20)
+        Me.bu1text.Size = New System.Drawing.Size(79, 29)
         Me.bu1text.TabIndex = 39
         '
         'Label110
         '
         Me.Label110.AutoSize = True
-        Me.Label110.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label110.Location = New System.Drawing.Point(422, 50)
+        Me.Label110.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label110.Location = New System.Drawing.Point(442, 50)
         Me.Label110.Name = "Label110"
-        Me.Label110.Size = New System.Drawing.Size(60, 13)
+        Me.Label110.Size = New System.Drawing.Size(75, 16)
         Me.Label110.TabIndex = 38
         Me.Label110.Text = "Unidades"
         '
         'b11text
         '
-        Me.b11text.Location = New System.Drawing.Point(293, 430)
+        Me.b11text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.b11text.Location = New System.Drawing.Point(331, 435)
         Me.b11text.Name = "b11text"
-        Me.b11text.Size = New System.Drawing.Size(95, 20)
+        Me.b11text.Size = New System.Drawing.Size(95, 29)
         Me.b11text.TabIndex = 37
         '
         'Label64
         '
         Me.Label64.AutoSize = True
-        Me.Label64.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label64.Location = New System.Drawing.Point(34, 430)
+        Me.Label64.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label64.Location = New System.Drawing.Point(34, 438)
         Me.Label64.Name = "Label64"
-        Me.Label64.Size = New System.Drawing.Size(177, 13)
+        Me.Label64.Size = New System.Drawing.Size(207, 16)
         Me.Label64.TabIndex = 36
         Me.Label64.Text = "Tapa para MI14/50/75/100/VSLIM"
         '
         'b10text
         '
-        Me.b10text.Location = New System.Drawing.Point(293, 404)
+        Me.b10text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.b10text.Location = New System.Drawing.Point(331, 407)
         Me.b10text.Name = "b10text"
-        Me.b10text.Size = New System.Drawing.Size(95, 20)
+        Me.b10text.Size = New System.Drawing.Size(95, 29)
         Me.b10text.TabIndex = 35
         '
         'Label63
         '
         Me.Label63.AutoSize = True
-        Me.Label63.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label63.Location = New System.Drawing.Point(34, 407)
+        Me.Label63.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label63.Location = New System.Drawing.Point(34, 411)
         Me.Label63.Name = "Label63"
-        Me.Label63.Size = New System.Drawing.Size(172, 13)
+        Me.Label63.Size = New System.Drawing.Size(198, 16)
         Me.Label63.TabIndex = 34
         Me.Label63.Text = "Raíl para MI14/50/75/100/VSLIM"
         '
         'b9text
         '
-        Me.b9text.Location = New System.Drawing.Point(293, 378)
+        Me.b9text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.b9text.Location = New System.Drawing.Point(331, 379)
         Me.b9text.Name = "b9text"
-        Me.b9text.Size = New System.Drawing.Size(95, 20)
+        Me.b9text.Size = New System.Drawing.Size(95, 29)
         Me.b9text.TabIndex = 33
         '
         'Label62
         '
         Me.Label62.AutoSize = True
-        Me.Label62.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label62.Location = New System.Drawing.Point(34, 381)
+        Me.Label62.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label62.Location = New System.Drawing.Point(34, 384)
         Me.Label62.Name = "Label62"
-        Me.Label62.Size = New System.Drawing.Size(203, 13)
+        Me.Label62.Size = New System.Drawing.Size(250, 16)
         Me.Label62.TabIndex = 32
         Me.Label62.Text = "U de aluminio mod. FG de 25 x 25 x 2 mm"
         '
         'b8text
         '
-        Me.b8text.Location = New System.Drawing.Point(293, 353)
+        Me.b8text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.b8text.Location = New System.Drawing.Point(331, 351)
         Me.b8text.Name = "b8text"
-        Me.b8text.Size = New System.Drawing.Size(95, 20)
+        Me.b8text.Size = New System.Drawing.Size(95, 29)
         Me.b8text.TabIndex = 31
         '
         'Label61
         '
         Me.Label61.AutoSize = True
-        Me.Label61.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label61.Location = New System.Drawing.Point(34, 360)
+        Me.Label61.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label61.Location = New System.Drawing.Point(34, 356)
         Me.Label61.Name = "Label61"
-        Me.Label61.Size = New System.Drawing.Size(111, 13)
+        Me.Label61.Size = New System.Drawing.Size(140, 16)
         Me.Label61.TabIndex = 30
         Me.Label61.Text = "Cortavientos universal"
         '
         'Label60
         '
         Me.Label60.AutoSize = True
-        Me.Label60.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label60.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label60.Location = New System.Drawing.Point(133, 317)
         Me.Label60.Name = "Label60"
-        Me.Label60.Size = New System.Drawing.Size(146, 13)
+        Me.Label60.Size = New System.Drawing.Size(180, 16)
         Me.Label60.TabIndex = 29
         Me.Label60.Text = "Perfiles de revestimiento"
         '
@@ -4616,140 +4685,147 @@ Partial Class Form1
         '
         'b7text
         '
-        Me.b7text.Location = New System.Drawing.Point(293, 277)
+        Me.b7text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.b7text.Location = New System.Drawing.Point(331, 274)
         Me.b7text.Name = "b7text"
-        Me.b7text.Size = New System.Drawing.Size(95, 20)
+        Me.b7text.Size = New System.Drawing.Size(95, 29)
         Me.b7text.TabIndex = 27
         '
         'Label51
         '
         Me.Label51.AutoSize = True
-        Me.Label51.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label51.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label51.Location = New System.Drawing.Point(34, 280)
         Me.Label51.Name = "Label51"
-        Me.Label51.Size = New System.Drawing.Size(230, 13)
+        Me.Label51.Size = New System.Drawing.Size(285, 16)
         Me.Label51.TabIndex = 26
         Me.Label51.Text = "Perfil Horizontal Inferior mod. FG de 20 x 74 mm"
         '
         'b6text
         '
-        Me.b6text.Location = New System.Drawing.Point(293, 247)
+        Me.b6text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.b6text.Location = New System.Drawing.Point(331, 246)
         Me.b6text.Name = "b6text"
-        Me.b6text.Size = New System.Drawing.Size(95, 20)
+        Me.b6text.Size = New System.Drawing.Size(95, 29)
         Me.b6text.TabIndex = 25
         '
         'Label52
         '
         Me.Label52.AutoSize = True
-        Me.Label52.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label52.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label52.Location = New System.Drawing.Point(34, 250)
         Me.Label52.Name = "Label52"
-        Me.Label52.Size = New System.Drawing.Size(237, 13)
+        Me.Label52.Size = New System.Drawing.Size(296, 16)
         Me.Label52.TabIndex = 24
         Me.Label52.Text = "Perfil Horizontal Superior mod. FG de 20 x 80 mm"
         '
         'b5text
         '
-        Me.b5text.Location = New System.Drawing.Point(293, 218)
+        Me.b5text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.b5text.Location = New System.Drawing.Point(331, 218)
         Me.b5text.Name = "b5text"
-        Me.b5text.Size = New System.Drawing.Size(95, 20)
+        Me.b5text.Size = New System.Drawing.Size(95, 29)
         Me.b5text.TabIndex = 23
         '
         'Label53
         '
         Me.Label53.AutoSize = True
-        Me.Label53.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label53.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label53.Location = New System.Drawing.Point(34, 221)
         Me.Label53.Name = "Label53"
-        Me.Label53.Size = New System.Drawing.Size(228, 13)
+        Me.Label53.Size = New System.Drawing.Size(282, 16)
         Me.Label53.TabIndex = 22
         Me.Label53.Text = "Perfil Vertical Central mod. FG de 20 x 15,5 mm"
         '
         'b4text
         '
-        Me.b4text.Location = New System.Drawing.Point(293, 190)
+        Me.b4text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.b4text.Location = New System.Drawing.Point(331, 190)
         Me.b4text.Name = "b4text"
-        Me.b4text.Size = New System.Drawing.Size(95, 20)
+        Me.b4text.Size = New System.Drawing.Size(95, 29)
         Me.b4text.TabIndex = 21
         '
         'Label54
         '
         Me.Label54.AutoSize = True
-        Me.Label54.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label54.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label54.Location = New System.Drawing.Point(34, 193)
         Me.Label54.Name = "Label54"
-        Me.Label54.Size = New System.Drawing.Size(218, 13)
+        Me.Label54.Size = New System.Drawing.Size(271, 16)
         Me.Label54.TabIndex = 20
         Me.Label54.Text = "Perfil Vertical Lateral mod. FG de 20 x 31 mm"
         '
         'Label55
         '
         Me.Label55.AutoSize = True
-        Me.Label55.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label55.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label55.Location = New System.Drawing.Point(173, 169)
         Me.Label55.Name = "Label55"
-        Me.Label55.Size = New System.Drawing.Size(67, 13)
+        Me.Label55.Size = New System.Drawing.Size(82, 16)
         Me.Label55.TabIndex = 19
         Me.Label55.Text = "Hoja Móvil"
         '
         'Label56
         '
         Me.Label56.AutoSize = True
-        Me.Label56.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label56.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label56.Location = New System.Drawing.Point(173, 50)
         Me.Label56.Name = "Label56"
-        Me.Label56.Size = New System.Drawing.Size(57, 13)
+        Me.Label56.Size = New System.Drawing.Size(71, 16)
         Me.Label56.TabIndex = 18
         Me.Label56.Text = "Hoja Fija"
         '
         'b3text
         '
-        Me.b3text.Location = New System.Drawing.Point(293, 127)
+        Me.b3text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.b3text.Location = New System.Drawing.Point(331, 127)
         Me.b3text.Name = "b3text"
-        Me.b3text.Size = New System.Drawing.Size(95, 20)
+        Me.b3text.Size = New System.Drawing.Size(95, 29)
         Me.b3text.TabIndex = 17
         '
         'Label57
         '
         Me.Label57.AutoSize = True
-        Me.Label57.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label57.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label57.Location = New System.Drawing.Point(34, 130)
         Me.Label57.Name = "Label57"
-        Me.Label57.Size = New System.Drawing.Size(230, 13)
+        Me.Label57.Size = New System.Drawing.Size(285, 16)
         Me.Label57.TabIndex = 16
         Me.Label57.Text = "Perfil Horizontal Inferior mod. FG de 20 x 74 mm"
         '
         'b2text
         '
-        Me.b2text.Location = New System.Drawing.Point(293, 98)
+        Me.b2text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.b2text.Location = New System.Drawing.Point(331, 99)
         Me.b2text.Name = "b2text"
-        Me.b2text.Size = New System.Drawing.Size(95, 20)
+        Me.b2text.Size = New System.Drawing.Size(95, 29)
         Me.b2text.TabIndex = 15
         '
         'Label58
         '
         Me.Label58.AutoSize = True
-        Me.Label58.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label58.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label58.Location = New System.Drawing.Point(34, 101)
         Me.Label58.Name = "Label58"
-        Me.Label58.Size = New System.Drawing.Size(228, 13)
+        Me.Label58.Size = New System.Drawing.Size(282, 16)
         Me.Label58.TabIndex = 14
         Me.Label58.Text = "Perfil Vertical Central mod. FG de 20 x 15,5 mm"
         '
         'b1text
         '
-        Me.b1text.Location = New System.Drawing.Point(293, 72)
+        Me.b1text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.b1text.Location = New System.Drawing.Point(331, 72)
         Me.b1text.Name = "b1text"
-        Me.b1text.Size = New System.Drawing.Size(95, 20)
+        Me.b1text.Size = New System.Drawing.Size(95, 29)
         Me.b1text.TabIndex = 13
         '
         'Label59
         '
         Me.Label59.AutoSize = True
-        Me.Label59.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label59.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label59.Location = New System.Drawing.Point(34, 75)
         Me.Label59.Name = "Label59"
-        Me.Label59.Size = New System.Drawing.Size(218, 13)
+        Me.Label59.Size = New System.Drawing.Size(271, 16)
         Me.Label59.TabIndex = 12
         Me.Label59.Text = "Perfil Vertical Lateral mod. FG de 20 x 31 mm"
         '
@@ -4800,10 +4876,10 @@ Partial Class Form1
         'Label204
         '
         Me.Label204.AutoSize = True
-        Me.Label204.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label204.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label204.Location = New System.Drawing.Point(235, 133)
         Me.Label204.Name = "Label204"
-        Me.Label204.Size = New System.Drawing.Size(47, 13)
+        Me.Label204.Size = New System.Drawing.Size(59, 16)
         Me.Label204.TabIndex = 44
         Me.Label204.Text = "Rápida"
         '
@@ -4824,182 +4900,195 @@ Partial Class Form1
         '
         'cu8text
         '
+        Me.cu8text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.cu8text.Location = New System.Drawing.Point(401, 80)
         Me.cu8text.Name = "cu8text"
-        Me.cu8text.Size = New System.Drawing.Size(82, 20)
+        Me.cu8text.Size = New System.Drawing.Size(82, 29)
         Me.cu8text.TabIndex = 46
         '
         'cu7text
         '
+        Me.cu7text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.cu7text.Location = New System.Drawing.Point(401, 52)
         Me.cu7text.Name = "cu7text"
-        Me.cu7text.Size = New System.Drawing.Size(82, 20)
+        Me.cu7text.Size = New System.Drawing.Size(82, 29)
         Me.cu7text.TabIndex = 45
         '
         'c8text
         '
-        Me.c8text.Location = New System.Drawing.Point(275, 80)
+        Me.c8text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.c8text.Location = New System.Drawing.Point(289, 80)
         Me.c8text.Name = "c8text"
-        Me.c8text.Size = New System.Drawing.Size(95, 20)
+        Me.c8text.Size = New System.Drawing.Size(95, 29)
         Me.c8text.TabIndex = 44
         '
         'c7text
         '
-        Me.c7text.Location = New System.Drawing.Point(275, 52)
+        Me.c7text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.c7text.Location = New System.Drawing.Point(289, 52)
         Me.c7text.Name = "c7text"
-        Me.c7text.Size = New System.Drawing.Size(95, 20)
+        Me.c7text.Size = New System.Drawing.Size(95, 29)
         Me.c7text.TabIndex = 43
         '
         'Label208
         '
         Me.Label208.AutoSize = True
-        Me.Label208.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label208.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label208.Location = New System.Drawing.Point(9, 83)
         Me.Label208.Name = "Label208"
-        Me.Label208.Size = New System.Drawing.Size(215, 13)
+        Me.Label208.Size = New System.Drawing.Size(265, 16)
         Me.Label208.TabIndex = 42
         Me.Label208.Text = "Plinto inferior perfil mod. MIPI de 74 x 20 mm"
         '
         'Label207
         '
         Me.Label207.AutoSize = True
-        Me.Label207.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label207.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label207.Location = New System.Drawing.Point(9, 55)
         Me.Label207.Name = "Label207"
-        Me.Label207.Size = New System.Drawing.Size(225, 13)
+        Me.Label207.Size = New System.Drawing.Size(280, 16)
         Me.Label207.TabIndex = 41
         Me.Label207.Text = "Plinto superior perfil mod. MIPS de 80 x 20 mm"
         '
         'Label206
         '
         Me.Label206.AutoSize = True
-        Me.Label206.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label206.Location = New System.Drawing.Point(411, 31)
+        Me.Label206.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label206.Location = New System.Drawing.Point(403, 31)
         Me.Label206.Name = "Label206"
-        Me.Label206.Size = New System.Drawing.Size(60, 13)
+        Me.Label206.Size = New System.Drawing.Size(75, 16)
         Me.Label206.TabIndex = 40
         Me.Label206.Text = "Unidades"
         '
         'Label205
         '
         Me.Label205.AutoSize = True
-        Me.Label205.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label205.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label205.Location = New System.Drawing.Point(194, 31)
         Me.Label205.Name = "Label205"
-        Me.Label205.Size = New System.Drawing.Size(103, 13)
+        Me.Label205.Size = New System.Drawing.Size(124, 16)
         Me.Label205.TabIndex = 20
         Me.Label205.Text = "Hoja Móvil Lenta"
         '
         'cu6text
         '
-        Me.cu6text.Location = New System.Drawing.Point(429, 309)
+        Me.cu6text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.cu6text.Location = New System.Drawing.Point(429, 314)
         Me.cu6text.Name = "cu6text"
-        Me.cu6text.Size = New System.Drawing.Size(82, 20)
+        Me.cu6text.Size = New System.Drawing.Size(82, 29)
         Me.cu6text.TabIndex = 42
         '
         'cu5text
         '
+        Me.cu5text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.cu5text.Location = New System.Drawing.Point(429, 286)
         Me.cu5text.Name = "cu5text"
-        Me.cu5text.Size = New System.Drawing.Size(82, 20)
+        Me.cu5text.Size = New System.Drawing.Size(82, 29)
         Me.cu5text.TabIndex = 42
         '
         'cu4text
         '
-        Me.cu4text.Location = New System.Drawing.Point(429, 261)
+        Me.cu4text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.cu4text.Location = New System.Drawing.Point(429, 258)
         Me.cu4text.Name = "cu4text"
-        Me.cu4text.Size = New System.Drawing.Size(82, 20)
+        Me.cu4text.Size = New System.Drawing.Size(82, 29)
         Me.cu4text.TabIndex = 41
         '
         'cu3text
         '
+        Me.cu3text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.cu3text.Location = New System.Drawing.Point(429, 182)
         Me.cu3text.Name = "cu3text"
-        Me.cu3text.Size = New System.Drawing.Size(82, 20)
+        Me.cu3text.Size = New System.Drawing.Size(82, 29)
         Me.cu3text.TabIndex = 41
         '
         'cu2text
         '
+        Me.cu2text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.cu2text.Location = New System.Drawing.Point(429, 154)
         Me.cu2text.Name = "cu2text"
-        Me.cu2text.Size = New System.Drawing.Size(82, 20)
+        Me.cu2text.Size = New System.Drawing.Size(82, 29)
         Me.cu2text.TabIndex = 41
         '
         'cu1text
         '
+        Me.cu1text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.cu1text.Location = New System.Drawing.Point(429, 86)
         Me.cu1text.Name = "cu1text"
-        Me.cu1text.Size = New System.Drawing.Size(82, 20)
+        Me.cu1text.Size = New System.Drawing.Size(82, 29)
         Me.cu1text.TabIndex = 40
         '
         'Label111
         '
         Me.Label111.AutoSize = True
-        Me.Label111.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label111.Location = New System.Drawing.Point(420, 56)
+        Me.Label111.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label111.Location = New System.Drawing.Point(427, 56)
         Me.Label111.Name = "Label111"
-        Me.Label111.Size = New System.Drawing.Size(60, 13)
+        Me.Label111.Size = New System.Drawing.Size(75, 16)
         Me.Label111.TabIndex = 39
         Me.Label111.Text = "Unidades"
         '
         'c6text
         '
-        Me.c6text.Location = New System.Drawing.Point(293, 309)
+        Me.c6text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.c6text.Location = New System.Drawing.Point(316, 314)
         Me.c6text.Name = "c6text"
-        Me.c6text.Size = New System.Drawing.Size(95, 20)
+        Me.c6text.Size = New System.Drawing.Size(95, 29)
         Me.c6text.TabIndex = 35
         '
         'Label66
         '
         Me.Label66.AutoSize = True
-        Me.Label66.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label66.Location = New System.Drawing.Point(34, 312)
+        Me.Label66.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label66.Location = New System.Drawing.Point(34, 316)
         Me.Label66.Name = "Label66"
-        Me.Label66.Size = New System.Drawing.Size(177, 13)
+        Me.Label66.Size = New System.Drawing.Size(207, 16)
         Me.Label66.TabIndex = 34
         Me.Label66.Text = "Tapa para MI14/50/75/100/VSLIM"
         '
         'c5text
         '
-        Me.c5text.Location = New System.Drawing.Point(293, 286)
+        Me.c5text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.c5text.Location = New System.Drawing.Point(316, 286)
         Me.c5text.Name = "c5text"
-        Me.c5text.Size = New System.Drawing.Size(95, 20)
+        Me.c5text.Size = New System.Drawing.Size(95, 29)
         Me.c5text.TabIndex = 33
         '
         'Label67
         '
         Me.Label67.AutoSize = True
-        Me.Label67.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label67.Location = New System.Drawing.Point(34, 289)
+        Me.Label67.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label67.Location = New System.Drawing.Point(34, 291)
         Me.Label67.Name = "Label67"
-        Me.Label67.Size = New System.Drawing.Size(172, 13)
+        Me.Label67.Size = New System.Drawing.Size(198, 16)
         Me.Label67.TabIndex = 32
         Me.Label67.Text = "Raíl para MI14/50/75/100/VSLIM"
         '
         'c4text
         '
-        Me.c4text.Location = New System.Drawing.Point(293, 261)
+        Me.c4text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.c4text.Location = New System.Drawing.Point(316, 258)
         Me.c4text.Name = "c4text"
-        Me.c4text.Size = New System.Drawing.Size(95, 20)
+        Me.c4text.Size = New System.Drawing.Size(95, 29)
         Me.c4text.TabIndex = 31
         '
         'Label68
         '
         Me.Label68.AutoSize = True
-        Me.Label68.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label68.Location = New System.Drawing.Point(34, 268)
+        Me.Label68.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label68.Location = New System.Drawing.Point(34, 264)
         Me.Label68.Name = "Label68"
-        Me.Label68.Size = New System.Drawing.Size(111, 13)
+        Me.Label68.Size = New System.Drawing.Size(140, 16)
         Me.Label68.TabIndex = 30
         Me.Label68.Text = "Cortavientos universal"
         '
         'Label69
         '
         Me.Label69.AutoSize = True
-        Me.Label69.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label69.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label69.Location = New System.Drawing.Point(135, 228)
         Me.Label69.Name = "Label69"
-        Me.Label69.Size = New System.Drawing.Size(146, 13)
+        Me.Label69.Size = New System.Drawing.Size(180, 16)
         Me.Label69.TabIndex = 29
         Me.Label69.Text = "Perfiles de revestimiento"
         '
@@ -5015,72 +5104,75 @@ Partial Class Form1
         '
         'c3text
         '
-        Me.c3text.Location = New System.Drawing.Point(293, 182)
+        Me.c3text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.c3text.Location = New System.Drawing.Point(316, 182)
         Me.c3text.Name = "c3text"
-        Me.c3text.Size = New System.Drawing.Size(95, 20)
+        Me.c3text.Size = New System.Drawing.Size(95, 29)
         Me.c3text.TabIndex = 23
         '
         'Label73
         '
         Me.Label73.AutoSize = True
-        Me.Label73.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label73.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label73.Location = New System.Drawing.Point(34, 185)
         Me.Label73.Name = "Label73"
-        Me.Label73.Size = New System.Drawing.Size(215, 13)
+        Me.Label73.Size = New System.Drawing.Size(265, 16)
         Me.Label73.TabIndex = 22
         Me.Label73.Text = "Plinto inferior perfil mod. MIPI de 74 x 20 mm"
         '
         'c2text
         '
-        Me.c2text.Location = New System.Drawing.Point(293, 154)
+        Me.c2text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.c2text.Location = New System.Drawing.Point(316, 154)
         Me.c2text.Name = "c2text"
-        Me.c2text.Size = New System.Drawing.Size(95, 20)
+        Me.c2text.Size = New System.Drawing.Size(95, 29)
         Me.c2text.TabIndex = 21
         '
         'Label74
         '
         Me.Label74.AutoSize = True
-        Me.Label74.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label74.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label74.Location = New System.Drawing.Point(34, 157)
         Me.Label74.Name = "Label74"
-        Me.Label74.Size = New System.Drawing.Size(225, 13)
+        Me.Label74.Size = New System.Drawing.Size(280, 16)
         Me.Label74.TabIndex = 20
         Me.Label74.Text = "Plinto superior perfil mod. MIPS de 80 x 20 mm"
         '
         'Label75
         '
         Me.Label75.AutoSize = True
-        Me.Label75.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label75.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label75.Location = New System.Drawing.Point(173, 133)
         Me.Label75.Name = "Label75"
-        Me.Label75.Size = New System.Drawing.Size(67, 13)
+        Me.Label75.Size = New System.Drawing.Size(82, 16)
         Me.Label75.TabIndex = 19
         Me.Label75.Text = "Hoja Móvil"
         '
         'Label76
         '
         Me.Label76.AutoSize = True
-        Me.Label76.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label76.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label76.Location = New System.Drawing.Point(173, 56)
         Me.Label76.Name = "Label76"
-        Me.Label76.Size = New System.Drawing.Size(57, 13)
+        Me.Label76.Size = New System.Drawing.Size(71, 16)
         Me.Label76.TabIndex = 18
         Me.Label76.Text = "Hoja Fija"
         '
         'c1text
         '
-        Me.c1text.Location = New System.Drawing.Point(293, 86)
+        Me.c1text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.c1text.Location = New System.Drawing.Point(316, 86)
         Me.c1text.Name = "c1text"
-        Me.c1text.Size = New System.Drawing.Size(95, 20)
+        Me.c1text.Size = New System.Drawing.Size(95, 29)
         Me.c1text.TabIndex = 13
         '
         'Label79
         '
         Me.Label79.AutoSize = True
-        Me.Label79.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label79.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label79.Location = New System.Drawing.Point(32, 89)
         Me.Label79.Name = "Label79"
-        Me.Label79.Size = New System.Drawing.Size(215, 13)
+        Me.Label79.Size = New System.Drawing.Size(265, 16)
         Me.Label79.TabIndex = 12
         Me.Label79.Text = "Plinto inferior perfil mod. MIPI de 74 x 20 mm"
         '
@@ -5174,7 +5266,7 @@ Partial Class Form1
         Me.Panel6.Controls.Add(Me.d1text)
         Me.Panel6.Location = New System.Drawing.Point(8, 15)
         Me.Panel6.Name = "Panel6"
-        Me.Panel6.Size = New System.Drawing.Size(1099, 659)
+        Me.Panel6.Size = New System.Drawing.Size(1099, 701)
         Me.Panel6.TabIndex = 31
         '
         'Label209
@@ -5221,430 +5313,472 @@ Partial Class Form1
         Me.Panel14.Controls.Add(Me.du23text)
         Me.Panel14.Controls.Add(Me.d23text)
         Me.Panel14.Controls.Add(Me.Label210)
-        Me.Panel14.Location = New System.Drawing.Point(555, 231)
+        Me.Panel14.Location = New System.Drawing.Point(572, 205)
         Me.Panel14.Name = "Panel14"
-        Me.Panel14.Size = New System.Drawing.Size(524, 315)
+        Me.Panel14.Size = New System.Drawing.Size(524, 390)
         Me.Panel14.TabIndex = 81
         '
         'Label221
         '
         Me.Label221.AutoSize = True
-        Me.Label221.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label221.Location = New System.Drawing.Point(10, 268)
+        Me.Label221.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label221.Location = New System.Drawing.Point(10, 319)
         Me.Label221.Name = "Label221"
-        Me.Label221.Size = New System.Drawing.Size(246, 13)
+        Me.Label221.Size = New System.Drawing.Size(289, 15)
         Me.Label221.TabIndex = 97
         Me.Label221.Text = "Junquillo de aluminio 15 mm guía hoja móvil BW52"
         '
         'Label220
         '
         Me.Label220.AutoSize = True
-        Me.Label220.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label220.Location = New System.Drawing.Point(10, 246)
+        Me.Label220.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label220.Location = New System.Drawing.Point(10, 290)
         Me.Label220.Name = "Label220"
-        Me.Label220.Size = New System.Drawing.Size(256, 13)
+        Me.Label220.Size = New System.Drawing.Size(304, 15)
         Me.Label220.TabIndex = 96
         Me.Label220.Text = "Junquillo en aluminio de 23 mm para BW52 (superior)"
         '
         'Label219
         '
         Me.Label219.AutoSize = True
-        Me.Label219.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label219.Location = New System.Drawing.Point(9, 224)
+        Me.Label219.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label219.Location = New System.Drawing.Point(9, 261)
         Me.Label219.Name = "Label219"
-        Me.Label219.Size = New System.Drawing.Size(247, 13)
+        Me.Label219.Size = New System.Drawing.Size(293, 15)
         Me.Label219.TabIndex = 95
         Me.Label219.Text = "Junquillo en aluminio de 23 mm para BW52 (lateral)"
         '
         'Label218
         '
         Me.Label218.AutoSize = True
-        Me.Label218.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label218.Location = New System.Drawing.Point(10, 201)
+        Me.Label218.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label218.Location = New System.Drawing.Point(10, 237)
         Me.Label218.Name = "Label218"
-        Me.Label218.Size = New System.Drawing.Size(163, 13)
+        Me.Label218.Size = New System.Drawing.Size(188, 15)
         Me.Label218.TabIndex = 94
         Me.Label218.Text = "Portafelpudos inferior para BW52"
         '
         'Label217
         '
         Me.Label217.AutoSize = True
-        Me.Label217.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label217.Location = New System.Drawing.Point(10, 179)
+        Me.Label217.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label217.Location = New System.Drawing.Point(10, 210)
         Me.Label217.Name = "Label217"
-        Me.Label217.Size = New System.Drawing.Size(179, 13)
+        Me.Label217.Size = New System.Drawing.Size(210, 15)
         Me.Label217.TabIndex = 93
         Me.Label217.Text = "Perfil pilastra en aluminio para BW52"
         '
         'Label216
         '
         Me.Label216.AutoSize = True
-        Me.Label216.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label216.Location = New System.Drawing.Point(10, 156)
+        Me.Label216.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label216.Location = New System.Drawing.Point(10, 179)
         Me.Label216.Name = "Label216"
-        Me.Label216.Size = New System.Drawing.Size(213, 13)
+        Me.Label216.Size = New System.Drawing.Size(254, 15)
         Me.Label216.TabIndex = 92
         Me.Label216.Text = "Perfil perimetral de aluminio BW52 (superior)"
         '
         'Label215
         '
         Me.Label215.AutoSize = True
-        Me.Label215.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label215.Location = New System.Drawing.Point(9, 134)
+        Me.Label215.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label215.Location = New System.Drawing.Point(9, 149)
         Me.Label215.Name = "Label215"
-        Me.Label215.Size = New System.Drawing.Size(214, 13)
+        Me.Label215.Size = New System.Drawing.Size(250, 15)
         Me.Label215.TabIndex = 91
         Me.Label215.Text = "Cortavientos universal (lateral lado del muro)"
         '
         'Label214
         '
         Me.Label214.AutoSize = True
-        Me.Label214.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label214.Location = New System.Drawing.Point(9, 111)
+        Me.Label214.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label214.Location = New System.Drawing.Point(9, 120)
         Me.Label214.Name = "Label214"
-        Me.Label214.Size = New System.Drawing.Size(211, 13)
+        Me.Label214.Size = New System.Drawing.Size(241, 15)
         Me.Label214.TabIndex = 90
         Me.Label214.Text = "Perfil en aluminio para tapeta vaivén BW52"
         '
         'Label213
         '
         Me.Label213.AutoSize = True
-        Me.Label213.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label213.Location = New System.Drawing.Point(9, 88)
+        Me.Label213.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label213.Location = New System.Drawing.Point(9, 94)
         Me.Label213.Name = "Label213"
-        Me.Label213.Size = New System.Drawing.Size(211, 13)
+        Me.Label213.Size = New System.Drawing.Size(245, 15)
         Me.Label213.TabIndex = 89
         Me.Label213.Text = "Perfil en aluminio para tapeta trasera BW52"
         '
         'du32text
         '
-        Me.du32text.Location = New System.Drawing.Point(410, 265)
+        Me.du32text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.du32text.Location = New System.Drawing.Point(430, 312)
         Me.du32text.Name = "du32text"
-        Me.du32text.Size = New System.Drawing.Size(89, 20)
+        Me.du32text.Size = New System.Drawing.Size(89, 29)
         Me.du32text.TabIndex = 88
         '
         'du31text
         '
-        Me.du31text.Location = New System.Drawing.Point(410, 243)
+        Me.du31text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.du31text.Location = New System.Drawing.Point(430, 284)
         Me.du31text.Name = "du31text"
-        Me.du31text.Size = New System.Drawing.Size(89, 20)
+        Me.du31text.Size = New System.Drawing.Size(89, 29)
         Me.du31text.TabIndex = 87
         '
         'du30text
         '
-        Me.du30text.Location = New System.Drawing.Point(410, 221)
+        Me.du30text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.du30text.Location = New System.Drawing.Point(430, 256)
         Me.du30text.Name = "du30text"
-        Me.du30text.Size = New System.Drawing.Size(89, 20)
+        Me.du30text.Size = New System.Drawing.Size(89, 29)
         Me.du30text.TabIndex = 86
         '
         'du29text
         '
-        Me.du29text.Location = New System.Drawing.Point(410, 198)
+        Me.du29text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.du29text.Location = New System.Drawing.Point(430, 228)
         Me.du29text.Name = "du29text"
-        Me.du29text.Size = New System.Drawing.Size(89, 20)
+        Me.du29text.Size = New System.Drawing.Size(89, 29)
         Me.du29text.TabIndex = 85
         '
         'du28text
         '
-        Me.du28text.Location = New System.Drawing.Point(410, 176)
+        Me.du28text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.du28text.Location = New System.Drawing.Point(430, 200)
         Me.du28text.Name = "du28text"
-        Me.du28text.Size = New System.Drawing.Size(89, 20)
+        Me.du28text.Size = New System.Drawing.Size(89, 29)
         Me.du28text.TabIndex = 84
         '
         'du27text
         '
-        Me.du27text.Location = New System.Drawing.Point(410, 153)
+        Me.du27text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.du27text.Location = New System.Drawing.Point(430, 172)
         Me.du27text.Name = "du27text"
-        Me.du27text.Size = New System.Drawing.Size(89, 20)
+        Me.du27text.Size = New System.Drawing.Size(89, 29)
         Me.du27text.TabIndex = 83
         '
         'du26text
         '
-        Me.du26text.Location = New System.Drawing.Point(410, 131)
+        Me.du26text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.du26text.Location = New System.Drawing.Point(430, 144)
         Me.du26text.Name = "du26text"
-        Me.du26text.Size = New System.Drawing.Size(89, 20)
+        Me.du26text.Size = New System.Drawing.Size(89, 29)
         Me.du26text.TabIndex = 82
         '
         'du25text
         '
-        Me.du25text.Location = New System.Drawing.Point(410, 108)
+        Me.du25text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.du25text.Location = New System.Drawing.Point(430, 116)
         Me.du25text.Name = "du25text"
-        Me.du25text.Size = New System.Drawing.Size(89, 20)
+        Me.du25text.Size = New System.Drawing.Size(89, 29)
         Me.du25text.TabIndex = 81
         '
         'du24text
         '
-        Me.du24text.Location = New System.Drawing.Point(410, 85)
+        Me.du24text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.du24text.Location = New System.Drawing.Point(430, 88)
         Me.du24text.Name = "du24text"
-        Me.du24text.Size = New System.Drawing.Size(89, 20)
+        Me.du24text.Size = New System.Drawing.Size(89, 29)
         Me.du24text.TabIndex = 80
         '
         'd32text
         '
-        Me.d32text.Location = New System.Drawing.Point(282, 265)
+        Me.d32text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.d32text.Location = New System.Drawing.Point(322, 312)
         Me.d32text.Name = "d32text"
-        Me.d32text.Size = New System.Drawing.Size(95, 20)
+        Me.d32text.Size = New System.Drawing.Size(95, 29)
         Me.d32text.TabIndex = 79
         '
         'd31text
         '
-        Me.d31text.Location = New System.Drawing.Point(282, 243)
+        Me.d31text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.d31text.Location = New System.Drawing.Point(322, 284)
         Me.d31text.Name = "d31text"
-        Me.d31text.Size = New System.Drawing.Size(95, 20)
+        Me.d31text.Size = New System.Drawing.Size(95, 29)
         Me.d31text.TabIndex = 78
         '
         'd30text
         '
-        Me.d30text.Location = New System.Drawing.Point(282, 221)
+        Me.d30text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.d30text.Location = New System.Drawing.Point(322, 256)
         Me.d30text.Name = "d30text"
-        Me.d30text.Size = New System.Drawing.Size(95, 20)
+        Me.d30text.Size = New System.Drawing.Size(95, 29)
         Me.d30text.TabIndex = 77
         '
         'd29text
         '
-        Me.d29text.Location = New System.Drawing.Point(282, 198)
+        Me.d29text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.d29text.Location = New System.Drawing.Point(322, 228)
         Me.d29text.Name = "d29text"
-        Me.d29text.Size = New System.Drawing.Size(95, 20)
+        Me.d29text.Size = New System.Drawing.Size(95, 29)
         Me.d29text.TabIndex = 76
         '
         'd28text
         '
-        Me.d28text.Location = New System.Drawing.Point(282, 176)
+        Me.d28text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.d28text.Location = New System.Drawing.Point(322, 200)
         Me.d28text.Name = "d28text"
-        Me.d28text.Size = New System.Drawing.Size(95, 20)
+        Me.d28text.Size = New System.Drawing.Size(95, 29)
         Me.d28text.TabIndex = 75
         '
         'd27text
         '
-        Me.d27text.Location = New System.Drawing.Point(282, 153)
+        Me.d27text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.d27text.Location = New System.Drawing.Point(322, 172)
         Me.d27text.Name = "d27text"
-        Me.d27text.Size = New System.Drawing.Size(95, 20)
+        Me.d27text.Size = New System.Drawing.Size(95, 29)
         Me.d27text.TabIndex = 74
         '
         'd26text
         '
-        Me.d26text.Location = New System.Drawing.Point(282, 131)
+        Me.d26text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.d26text.Location = New System.Drawing.Point(322, 144)
         Me.d26text.Name = "d26text"
-        Me.d26text.Size = New System.Drawing.Size(95, 20)
+        Me.d26text.Size = New System.Drawing.Size(95, 29)
         Me.d26text.TabIndex = 73
         '
         'd25text
         '
-        Me.d25text.Location = New System.Drawing.Point(282, 108)
+        Me.d25text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.d25text.Location = New System.Drawing.Point(322, 116)
         Me.d25text.Name = "d25text"
-        Me.d25text.Size = New System.Drawing.Size(95, 20)
+        Me.d25text.Size = New System.Drawing.Size(95, 29)
         Me.d25text.TabIndex = 72
         '
         'd24text
         '
-        Me.d24text.Location = New System.Drawing.Point(282, 85)
+        Me.d24text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.d24text.Location = New System.Drawing.Point(322, 88)
         Me.d24text.Name = "d24text"
-        Me.d24text.Size = New System.Drawing.Size(95, 20)
+        Me.d24text.Size = New System.Drawing.Size(95, 29)
         Me.d24text.TabIndex = 71
         '
         'Label212
         '
         Me.Label212.AutoSize = True
-        Me.Label212.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label212.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label212.Location = New System.Drawing.Point(9, 65)
         Me.Label212.Name = "Label212"
-        Me.Label212.Size = New System.Drawing.Size(204, 13)
+        Me.Label212.Size = New System.Drawing.Size(243, 15)
         Me.Label212.TabIndex = 70
         Me.Label212.Text = "Perfil perimetral de aluminio BW52 (lateral)"
         '
         'Label211
         '
         Me.Label211.AutoSize = True
-        Me.Label211.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label211.Location = New System.Drawing.Point(422, 34)
+        Me.Label211.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label211.Location = New System.Drawing.Point(440, 34)
         Me.Label211.Name = "Label211"
-        Me.Label211.Size = New System.Drawing.Size(60, 13)
+        Me.Label211.Size = New System.Drawing.Size(75, 16)
         Me.Label211.TabIndex = 69
         Me.Label211.Text = "Unidades"
         '
         'du23text
         '
-        Me.du23text.Location = New System.Drawing.Point(410, 62)
+        Me.du23text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.du23text.Location = New System.Drawing.Point(430, 60)
         Me.du23text.Name = "du23text"
-        Me.du23text.Size = New System.Drawing.Size(89, 20)
+        Me.du23text.Size = New System.Drawing.Size(89, 29)
         Me.du23text.TabIndex = 68
         '
         'd23text
         '
-        Me.d23text.Location = New System.Drawing.Point(282, 62)
+        Me.d23text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.d23text.Location = New System.Drawing.Point(322, 60)
         Me.d23text.Name = "d23text"
-        Me.d23text.Size = New System.Drawing.Size(95, 20)
+        Me.d23text.Size = New System.Drawing.Size(95, 29)
         Me.d23text.TabIndex = 22
         '
         'Label210
         '
         Me.Label210.AutoSize = True
-        Me.Label210.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label210.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label210.Location = New System.Drawing.Point(189, 34)
         Me.Label210.Name = "Label210"
-        Me.Label210.Size = New System.Drawing.Size(103, 13)
+        Me.Label210.Size = New System.Drawing.Size(124, 16)
         Me.Label210.TabIndex = 20
         Me.Label210.Text = "Hoja Móvil Lenta"
         '
         'du22text
         '
-        Me.du22text.Location = New System.Drawing.Point(431, 616)
+        Me.du22text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.du22text.Location = New System.Drawing.Point(478, 669)
         Me.du22text.Name = "du22text"
-        Me.du22text.Size = New System.Drawing.Size(89, 20)
+        Me.du22text.Size = New System.Drawing.Size(89, 29)
         Me.du22text.TabIndex = 80
         '
         'du21text
         '
-        Me.du21text.Location = New System.Drawing.Point(431, 595)
+        Me.du21text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.du21text.Location = New System.Drawing.Point(478, 641)
         Me.du21text.Name = "du21text"
-        Me.du21text.Size = New System.Drawing.Size(89, 20)
+        Me.du21text.Size = New System.Drawing.Size(89, 29)
         Me.du21text.TabIndex = 79
         '
         'du20text
         '
-        Me.du20text.Location = New System.Drawing.Point(431, 574)
+        Me.du20text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.du20text.Location = New System.Drawing.Point(478, 613)
         Me.du20text.Name = "du20text"
-        Me.du20text.Size = New System.Drawing.Size(89, 20)
+        Me.du20text.Size = New System.Drawing.Size(89, 29)
         Me.du20text.TabIndex = 78
         '
         'du19text
         '
-        Me.du19text.Location = New System.Drawing.Point(431, 553)
+        Me.du19text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.du19text.Location = New System.Drawing.Point(478, 585)
         Me.du19text.Name = "du19text"
-        Me.du19text.Size = New System.Drawing.Size(89, 20)
+        Me.du19text.Size = New System.Drawing.Size(89, 29)
         Me.du19text.TabIndex = 77
         '
         'du18text
         '
-        Me.du18text.Location = New System.Drawing.Point(431, 496)
+        Me.du18text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.du18text.Location = New System.Drawing.Point(478, 530)
         Me.du18text.Name = "du18text"
-        Me.du18text.Size = New System.Drawing.Size(89, 20)
+        Me.du18text.Size = New System.Drawing.Size(89, 29)
         Me.du18text.TabIndex = 76
         '
         'du17text
         '
-        Me.du17text.Location = New System.Drawing.Point(431, 474)
+        Me.du17text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.du17text.Location = New System.Drawing.Point(478, 502)
         Me.du17text.Name = "du17text"
-        Me.du17text.Size = New System.Drawing.Size(89, 20)
+        Me.du17text.Size = New System.Drawing.Size(89, 29)
         Me.du17text.TabIndex = 75
         '
         'du16text
         '
-        Me.du16text.Location = New System.Drawing.Point(431, 452)
+        Me.du16text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.du16text.Location = New System.Drawing.Point(478, 474)
         Me.du16text.Name = "du16text"
-        Me.du16text.Size = New System.Drawing.Size(89, 20)
+        Me.du16text.Size = New System.Drawing.Size(89, 29)
         Me.du16text.TabIndex = 74
         '
         'du15text
         '
-        Me.du15text.Location = New System.Drawing.Point(431, 429)
+        Me.du15text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.du15text.Location = New System.Drawing.Point(478, 446)
         Me.du15text.Name = "du15text"
-        Me.du15text.Size = New System.Drawing.Size(89, 20)
+        Me.du15text.Size = New System.Drawing.Size(89, 29)
         Me.du15text.TabIndex = 73
         '
         'du14text
         '
-        Me.du14text.Location = New System.Drawing.Point(431, 407)
+        Me.du14text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.du14text.Location = New System.Drawing.Point(478, 418)
         Me.du14text.Name = "du14text"
-        Me.du14text.Size = New System.Drawing.Size(89, 20)
+        Me.du14text.Size = New System.Drawing.Size(89, 29)
         Me.du14text.TabIndex = 72
         '
         'du13text
         '
-        Me.du13text.Location = New System.Drawing.Point(431, 384)
+        Me.du13text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.du13text.Location = New System.Drawing.Point(478, 390)
         Me.du13text.Name = "du13text"
-        Me.du13text.Size = New System.Drawing.Size(89, 20)
+        Me.du13text.Size = New System.Drawing.Size(89, 29)
         Me.du13text.TabIndex = 71
         '
         'du12text
         '
-        Me.du12text.Location = New System.Drawing.Point(431, 362)
+        Me.du12text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.du12text.Location = New System.Drawing.Point(478, 362)
         Me.du12text.Name = "du12text"
-        Me.du12text.Size = New System.Drawing.Size(89, 20)
+        Me.du12text.Size = New System.Drawing.Size(89, 29)
         Me.du12text.TabIndex = 70
         '
         'du11text
         '
-        Me.du11text.Location = New System.Drawing.Point(431, 339)
+        Me.du11text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.du11text.Location = New System.Drawing.Point(478, 334)
         Me.du11text.Name = "du11text"
-        Me.du11text.Size = New System.Drawing.Size(89, 20)
+        Me.du11text.Size = New System.Drawing.Size(89, 29)
         Me.du11text.TabIndex = 69
         '
         'du10text
         '
-        Me.du10text.Location = New System.Drawing.Point(431, 316)
+        Me.du10text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.du10text.Location = New System.Drawing.Point(478, 306)
         Me.du10text.Name = "du10text"
-        Me.du10text.Size = New System.Drawing.Size(89, 20)
+        Me.du10text.Size = New System.Drawing.Size(89, 29)
         Me.du10text.TabIndex = 68
         '
         'du9text
         '
-        Me.du9text.Location = New System.Drawing.Point(431, 293)
+        Me.du9text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.du9text.Location = New System.Drawing.Point(478, 278)
         Me.du9text.Name = "du9text"
-        Me.du9text.Size = New System.Drawing.Size(89, 20)
+        Me.du9text.Size = New System.Drawing.Size(89, 29)
         Me.du9text.TabIndex = 67
         '
         'du8text
         '
-        Me.du8text.Location = New System.Drawing.Point(431, 228)
+        Me.du8text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.du8text.Location = New System.Drawing.Point(478, 233)
         Me.du8text.Name = "du8text"
-        Me.du8text.Size = New System.Drawing.Size(89, 20)
+        Me.du8text.Size = New System.Drawing.Size(89, 29)
         Me.du8text.TabIndex = 66
         '
         'du7text
         '
-        Me.du7text.Location = New System.Drawing.Point(431, 206)
+        Me.du7text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.du7text.Location = New System.Drawing.Point(478, 206)
         Me.du7text.Name = "du7text"
-        Me.du7text.Size = New System.Drawing.Size(89, 20)
+        Me.du7text.Size = New System.Drawing.Size(89, 29)
         Me.du7text.TabIndex = 65
         '
         'du6text
         '
-        Me.du6text.Location = New System.Drawing.Point(431, 184)
+        Me.du6text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.du6text.Location = New System.Drawing.Point(478, 178)
         Me.du6text.Name = "du6text"
-        Me.du6text.Size = New System.Drawing.Size(89, 20)
+        Me.du6text.Size = New System.Drawing.Size(89, 29)
         Me.du6text.TabIndex = 64
         '
         'du5text
         '
-        Me.du5text.Location = New System.Drawing.Point(431, 162)
+        Me.du5text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.du5text.Location = New System.Drawing.Point(478, 150)
         Me.du5text.Name = "du5text"
-        Me.du5text.Size = New System.Drawing.Size(89, 20)
+        Me.du5text.Size = New System.Drawing.Size(89, 29)
         Me.du5text.TabIndex = 63
         '
         'du4text
         '
-        Me.du4text.Location = New System.Drawing.Point(431, 140)
+        Me.du4text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.du4text.Location = New System.Drawing.Point(478, 122)
         Me.du4text.Name = "du4text"
-        Me.du4text.Size = New System.Drawing.Size(89, 20)
+        Me.du4text.Size = New System.Drawing.Size(89, 29)
         Me.du4text.TabIndex = 62
         '
         'du3text
         '
-        Me.du3text.Location = New System.Drawing.Point(431, 118)
+        Me.du3text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.du3text.Location = New System.Drawing.Point(478, 94)
         Me.du3text.Name = "du3text"
-        Me.du3text.Size = New System.Drawing.Size(89, 20)
+        Me.du3text.Size = New System.Drawing.Size(89, 29)
         Me.du3text.TabIndex = 61
         '
         'du2text
         '
-        Me.du2text.Location = New System.Drawing.Point(431, 95)
+        Me.du2text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.du2text.Location = New System.Drawing.Point(478, 66)
         Me.du2text.Name = "du2text"
-        Me.du2text.Size = New System.Drawing.Size(89, 20)
+        Me.du2text.Size = New System.Drawing.Size(89, 29)
         Me.du2text.TabIndex = 41
         '
         'du1text
         '
-        Me.du1text.Location = New System.Drawing.Point(431, 72)
+        Me.du1text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.du1text.Location = New System.Drawing.Point(478, 38)
         Me.du1text.Name = "du1text"
-        Me.du1text.Size = New System.Drawing.Size(89, 20)
+        Me.du1text.Size = New System.Drawing.Size(89, 29)
         Me.du1text.TabIndex = 60
         '
         'Label112
         '
         Me.Label112.AutoSize = True
         Me.Label112.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label112.Location = New System.Drawing.Point(423, 50)
+        Me.Label112.Location = New System.Drawing.Point(470, 21)
         Me.Label112.Name = "Label112"
         Me.Label112.Size = New System.Drawing.Size(60, 13)
         Me.Label112.TabIndex = 40
@@ -5653,315 +5787,330 @@ Partial Class Form1
         'Label100
         '
         Me.Label100.AutoSize = True
-        Me.Label100.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label100.Location = New System.Drawing.Point(36, 342)
+        Me.Label100.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label100.Location = New System.Drawing.Point(36, 343)
         Me.Label100.Name = "Label100"
-        Me.Label100.Size = New System.Drawing.Size(211, 13)
+        Me.Label100.Size = New System.Drawing.Size(263, 16)
         Me.Label100.TabIndex = 59
         Me.Label100.Text = "Perfil en aluminio para tapeta vaivén BW52"
         '
         'd18text
         '
-        Me.d18text.Location = New System.Drawing.Point(293, 496)
+        Me.d18text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.d18text.Location = New System.Drawing.Point(363, 530)
         Me.d18text.Name = "d18text"
-        Me.d18text.Size = New System.Drawing.Size(95, 20)
+        Me.d18text.Size = New System.Drawing.Size(95, 29)
         Me.d18text.TabIndex = 58
         '
         'd17text
         '
-        Me.d17text.Location = New System.Drawing.Point(293, 474)
+        Me.d17text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.d17text.Location = New System.Drawing.Point(363, 502)
         Me.d17text.Name = "d17text"
-        Me.d17text.Size = New System.Drawing.Size(95, 20)
+        Me.d17text.Size = New System.Drawing.Size(95, 29)
         Me.d17text.TabIndex = 57
         '
         'Label99
         '
         Me.Label99.AutoSize = True
-        Me.Label99.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label99.Location = New System.Drawing.Point(36, 432)
+        Me.Label99.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label99.Location = New System.Drawing.Point(36, 450)
         Me.Label99.Name = "Label99"
-        Me.Label99.Size = New System.Drawing.Size(163, 13)
+        Me.Label99.Size = New System.Drawing.Size(205, 16)
         Me.Label99.TabIndex = 56
         Me.Label99.Text = "Portafelpudos inferior para BW52"
         '
         'd16text
         '
-        Me.d16text.Location = New System.Drawing.Point(293, 452)
+        Me.d16text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.d16text.Location = New System.Drawing.Point(363, 474)
         Me.d16text.Name = "d16text"
-        Me.d16text.Size = New System.Drawing.Size(95, 20)
+        Me.d16text.Size = New System.Drawing.Size(95, 29)
         Me.d16text.TabIndex = 55
         '
         'Label83
         '
         Me.Label83.AutoSize = True
-        Me.Label83.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label83.Location = New System.Drawing.Point(35, 477)
+        Me.Label83.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label83.Location = New System.Drawing.Point(35, 508)
         Me.Label83.Name = "Label83"
-        Me.Label83.Size = New System.Drawing.Size(256, 13)
+        Me.Label83.Size = New System.Drawing.Size(323, 16)
         Me.Label83.TabIndex = 22
         Me.Label83.Text = "Junquillo en aluminio de 23 mm para BW52 (superior)"
         '
         'Label81
         '
         Me.Label81.AutoSize = True
-        Me.Label81.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label81.Location = New System.Drawing.Point(36, 296)
+        Me.Label81.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label81.Location = New System.Drawing.Point(36, 286)
         Me.Label81.Name = "Label81"
-        Me.Label81.Size = New System.Drawing.Size(204, 13)
+        Me.Label81.Size = New System.Drawing.Size(260, 16)
         Me.Label81.TabIndex = 26
         Me.Label81.Text = "Perfil perimetral de aluminio BW52 (lateral)"
         '
         'Label97
         '
         Me.Label97.AutoSize = True
-        Me.Label97.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label97.Location = New System.Drawing.Point(36, 319)
+        Me.Label97.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label97.Location = New System.Drawing.Point(36, 315)
         Me.Label97.Name = "Label97"
-        Me.Label97.Size = New System.Drawing.Size(211, 13)
+        Me.Label97.Size = New System.Drawing.Size(265, 16)
         Me.Label97.TabIndex = 52
         Me.Label97.Text = "Perfil en aluminio para tapeta trasera BW52"
         '
         'Label84
         '
         Me.Label84.AutoSize = True
-        Me.Label84.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label84.Location = New System.Drawing.Point(35, 455)
+        Me.Label84.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label84.Location = New System.Drawing.Point(35, 478)
         Me.Label84.Name = "Label84"
-        Me.Label84.Size = New System.Drawing.Size(247, 13)
+        Me.Label84.Size = New System.Drawing.Size(311, 16)
         Me.Label84.TabIndex = 20
         Me.Label84.Text = "Junquillo en aluminio de 23 mm para BW52 (lateral)"
         '
         'Label88
         '
         Me.Label88.AutoSize = True
-        Me.Label88.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label88.Location = New System.Drawing.Point(35, 209)
+        Me.Label88.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label88.Location = New System.Drawing.Point(35, 212)
         Me.Label88.Name = "Label88"
-        Me.Label88.Size = New System.Drawing.Size(256, 13)
+        Me.Label88.Size = New System.Drawing.Size(323, 16)
         Me.Label88.TabIndex = 14
         Me.Label88.Text = "Junquillo en aluminio de 23 mm para BW52 (superior)"
         '
         'Label89
         '
         Me.Label89.AutoSize = True
-        Me.Label89.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label89.Location = New System.Drawing.Point(35, 187)
+        Me.Label89.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label89.Location = New System.Drawing.Point(35, 184)
         Me.Label89.Name = "Label89"
-        Me.Label89.Size = New System.Drawing.Size(247, 13)
+        Me.Label89.Size = New System.Drawing.Size(311, 16)
         Me.Label89.TabIndex = 12
         Me.Label89.Text = "Junquillo en aluminio de 23 mm para BW52 (lateral)"
         '
         'Label90
         '
         Me.Label90.AutoSize = True
-        Me.Label90.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label90.Location = New System.Drawing.Point(36, 75)
+        Me.Label90.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label90.Location = New System.Drawing.Point(36, 46)
         Me.Label90.Name = "Label90"
-        Me.Label90.Size = New System.Drawing.Size(204, 13)
+        Me.Label90.Size = New System.Drawing.Size(260, 16)
         Me.Label90.TabIndex = 38
         Me.Label90.Text = "Perfil perimetral de aluminio BW52 (lateral)"
         '
         'Label98
         '
         Me.Label98.AutoSize = True
-        Me.Label98.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label98.Location = New System.Drawing.Point(36, 365)
+        Me.Label98.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label98.Location = New System.Drawing.Point(36, 369)
         Me.Label98.Name = "Label98"
-        Me.Label98.Size = New System.Drawing.Size(214, 13)
+        Me.Label98.Size = New System.Drawing.Size(273, 16)
         Me.Label98.TabIndex = 54
         Me.Label98.Text = "Cortavientos universal (lateral lado del muro)"
         '
         'd15text
         '
-        Me.d15text.Location = New System.Drawing.Point(293, 429)
+        Me.d15text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.d15text.Location = New System.Drawing.Point(363, 446)
         Me.d15text.Name = "d15text"
-        Me.d15text.Size = New System.Drawing.Size(95, 20)
+        Me.d15text.Size = New System.Drawing.Size(95, 29)
         Me.d15text.TabIndex = 53
         '
         'd14text
         '
-        Me.d14text.Location = New System.Drawing.Point(293, 407)
+        Me.d14text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.d14text.Location = New System.Drawing.Point(363, 418)
         Me.d14text.Name = "d14text"
-        Me.d14text.Size = New System.Drawing.Size(95, 20)
+        Me.d14text.Size = New System.Drawing.Size(95, 29)
         Me.d14text.TabIndex = 51
         '
         'Label96
         '
         Me.Label96.AutoSize = True
-        Me.Label96.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label96.Location = New System.Drawing.Point(36, 410)
+        Me.Label96.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label96.Location = New System.Drawing.Point(36, 420)
         Me.Label96.Name = "Label96"
-        Me.Label96.Size = New System.Drawing.Size(179, 13)
+        Me.Label96.Size = New System.Drawing.Size(226, 16)
         Me.Label96.TabIndex = 50
         Me.Label96.Text = "Perfil pilastra en aluminio para BW52"
         '
         'd13text
         '
-        Me.d13text.Location = New System.Drawing.Point(293, 384)
+        Me.d13text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.d13text.Location = New System.Drawing.Point(363, 390)
         Me.d13text.Name = "d13text"
-        Me.d13text.Size = New System.Drawing.Size(95, 20)
+        Me.d13text.Size = New System.Drawing.Size(95, 29)
         Me.d13text.TabIndex = 49
         '
         'Label95
         '
         Me.Label95.AutoSize = True
-        Me.Label95.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label95.Location = New System.Drawing.Point(36, 387)
+        Me.Label95.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label95.Location = New System.Drawing.Point(36, 394)
         Me.Label95.Name = "Label95"
-        Me.Label95.Size = New System.Drawing.Size(213, 13)
+        Me.Label95.Size = New System.Drawing.Size(272, 16)
         Me.Label95.TabIndex = 48
         Me.Label95.Text = "Perfil perimetral de aluminio BW52 (superior)"
         '
         'd8text
         '
-        Me.d8text.Location = New System.Drawing.Point(293, 228)
+        Me.d8text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.d8text.Location = New System.Drawing.Point(363, 233)
         Me.d8text.Name = "d8text"
-        Me.d8text.Size = New System.Drawing.Size(95, 20)
+        Me.d8text.Size = New System.Drawing.Size(95, 29)
         Me.d8text.TabIndex = 47
         '
         'Label94
         '
         Me.Label94.AutoSize = True
-        Me.Label94.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label94.Location = New System.Drawing.Point(36, 121)
+        Me.Label94.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label94.Location = New System.Drawing.Point(36, 103)
         Me.Label94.Name = "Label94"
-        Me.Label94.Size = New System.Drawing.Size(221, 13)
+        Me.Label94.Size = New System.Drawing.Size(280, 16)
         Me.Label94.TabIndex = 46
         Me.Label94.Text = "Cortavientos universal (lateral lado del centro)"
         '
         'd7text
         '
-        Me.d7text.Location = New System.Drawing.Point(293, 206)
+        Me.d7text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.d7text.Location = New System.Drawing.Point(363, 205)
         Me.d7text.Name = "d7text"
-        Me.d7text.Size = New System.Drawing.Size(95, 20)
+        Me.d7text.Size = New System.Drawing.Size(95, 29)
         Me.d7text.TabIndex = 45
         '
         'Label93
         '
         Me.Label93.AutoSize = True
-        Me.Label93.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label93.Location = New System.Drawing.Point(36, 98)
+        Me.Label93.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label93.Location = New System.Drawing.Point(36, 74)
         Me.Label93.Name = "Label93"
-        Me.Label93.Size = New System.Drawing.Size(211, 13)
+        Me.Label93.Size = New System.Drawing.Size(265, 16)
         Me.Label93.TabIndex = 44
         Me.Label93.Text = "Perfil en aluminio para tapeta trasera BW52"
         '
         'd6text
         '
-        Me.d6text.Location = New System.Drawing.Point(293, 184)
+        Me.d6text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.d6text.Location = New System.Drawing.Point(363, 178)
         Me.d6text.Name = "d6text"
-        Me.d6text.Size = New System.Drawing.Size(95, 20)
+        Me.d6text.Size = New System.Drawing.Size(95, 29)
         Me.d6text.TabIndex = 43
         '
         'Label92
         '
         Me.Label92.AutoSize = True
-        Me.Label92.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label92.Location = New System.Drawing.Point(36, 165)
+        Me.Label92.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label92.Location = New System.Drawing.Point(36, 158)
         Me.Label92.Name = "Label92"
-        Me.Label92.Size = New System.Drawing.Size(179, 13)
+        Me.Label92.Size = New System.Drawing.Size(226, 16)
         Me.Label92.TabIndex = 42
         Me.Label92.Text = "Perfil pilastra en aluminio para BW52"
         '
         'd5text
         '
-        Me.d5text.Location = New System.Drawing.Point(293, 162)
+        Me.d5text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.d5text.Location = New System.Drawing.Point(363, 150)
         Me.d5text.Name = "d5text"
-        Me.d5text.Size = New System.Drawing.Size(95, 20)
+        Me.d5text.Size = New System.Drawing.Size(95, 29)
         Me.d5text.TabIndex = 41
         '
         'Label91
         '
         Me.Label91.AutoSize = True
-        Me.Label91.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label91.Location = New System.Drawing.Point(36, 143)
+        Me.Label91.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label91.Location = New System.Drawing.Point(36, 131)
         Me.Label91.Name = "Label91"
-        Me.Label91.Size = New System.Drawing.Size(213, 13)
+        Me.Label91.Size = New System.Drawing.Size(272, 16)
         Me.Label91.TabIndex = 40
         Me.Label91.Text = "Perfil perimetral de aluminio BW52 (superior)"
         '
         'd4text
         '
-        Me.d4text.Location = New System.Drawing.Point(293, 140)
+        Me.d4text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.d4text.Location = New System.Drawing.Point(363, 122)
         Me.d4text.Name = "d4text"
-        Me.d4text.Size = New System.Drawing.Size(95, 20)
+        Me.d4text.Size = New System.Drawing.Size(95, 29)
         Me.d4text.TabIndex = 39
         '
         'd22text
         '
-        Me.d22text.Location = New System.Drawing.Point(291, 616)
+        Me.d22text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.d22text.Location = New System.Drawing.Point(361, 669)
         Me.d22text.Name = "d22text"
-        Me.d22text.Size = New System.Drawing.Size(95, 20)
+        Me.d22text.Size = New System.Drawing.Size(95, 29)
         Me.d22text.TabIndex = 37
         '
         'Label65
         '
         Me.Label65.AutoSize = True
-        Me.Label65.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label65.Location = New System.Drawing.Point(36, 619)
+        Me.Label65.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label65.Location = New System.Drawing.Point(36, 678)
         Me.Label65.Name = "Label65"
-        Me.Label65.Size = New System.Drawing.Size(177, 13)
+        Me.Label65.Size = New System.Drawing.Size(207, 16)
         Me.Label65.TabIndex = 36
         Me.Label65.Text = "Tapa para MI14/50/75/100/VSLIM"
         '
         'd21text
         '
-        Me.d21text.Location = New System.Drawing.Point(291, 595)
+        Me.d21text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.d21text.Location = New System.Drawing.Point(361, 641)
         Me.d21text.Name = "d21text"
-        Me.d21text.Size = New System.Drawing.Size(95, 20)
+        Me.d21text.Size = New System.Drawing.Size(95, 29)
         Me.d21text.TabIndex = 35
         '
         'Label71
         '
         Me.Label71.AutoSize = True
-        Me.Label71.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label71.Location = New System.Drawing.Point(36, 598)
+        Me.Label71.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label71.Location = New System.Drawing.Point(36, 652)
         Me.Label71.Name = "Label71"
-        Me.Label71.Size = New System.Drawing.Size(172, 13)
+        Me.Label71.Size = New System.Drawing.Size(198, 16)
         Me.Label71.TabIndex = 34
         Me.Label71.Text = "Raíl para MI14/50/75/100/VSLIM"
         '
         'd20text
         '
-        Me.d20text.Location = New System.Drawing.Point(291, 574)
+        Me.d20text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.d20text.Location = New System.Drawing.Point(361, 613)
         Me.d20text.Name = "d20text"
-        Me.d20text.Size = New System.Drawing.Size(95, 20)
+        Me.d20text.Size = New System.Drawing.Size(95, 29)
         Me.d20text.TabIndex = 33
         '
         'Label72
         '
         Me.Label72.AutoSize = True
-        Me.Label72.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label72.Location = New System.Drawing.Point(36, 577)
+        Me.Label72.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label72.Location = New System.Drawing.Point(36, 623)
         Me.Label72.Name = "Label72"
-        Me.Label72.Size = New System.Drawing.Size(219, 13)
+        Me.Label72.Size = New System.Drawing.Size(268, 16)
         Me.Label72.TabIndex = 32
         Me.Label72.Text = "U de aluminio mod. BW52 de 50 x 25 x 2 mm"
         '
         'd19text
         '
-        Me.d19text.Location = New System.Drawing.Point(291, 553)
+        Me.d19text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.d19text.Location = New System.Drawing.Point(361, 585)
         Me.d19text.Name = "d19text"
-        Me.d19text.Size = New System.Drawing.Size(95, 20)
+        Me.d19text.Size = New System.Drawing.Size(95, 29)
         Me.d19text.TabIndex = 31
         '
         'Label77
         '
         Me.Label77.AutoSize = True
-        Me.Label77.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label77.Location = New System.Drawing.Point(36, 556)
+        Me.Label77.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label77.Location = New System.Drawing.Point(36, 595)
         Me.Label77.Name = "Label77"
-        Me.Label77.Size = New System.Drawing.Size(111, 13)
+        Me.Label77.Size = New System.Drawing.Size(140, 16)
         Me.Label77.TabIndex = 30
         Me.Label77.Text = "Cortavientos universal"
         '
         'Label78
         '
         Me.Label78.AutoSize = True
-        Me.Label78.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label78.Location = New System.Drawing.Point(131, 533)
+        Me.Label78.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label78.Location = New System.Drawing.Point(131, 569)
         Me.Label78.Name = "Label78"
-        Me.Label78.Size = New System.Drawing.Size(146, 13)
+        Me.Label78.Size = New System.Drawing.Size(180, 16)
         Me.Label78.TabIndex = 29
         Me.Label78.Text = "Perfiles de revestimiento"
         '
@@ -5969,7 +6118,7 @@ Partial Class Form1
         '
         Me.Label80.AutoSize = True
         Me.Label80.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, CType((System.Drawing.FontStyle.Bold Or System.Drawing.FontStyle.Underline), System.Drawing.FontStyle), System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label80.Location = New System.Drawing.Point(145, 13)
+        Me.Label80.Location = New System.Drawing.Point(145, 1)
         Me.Label80.Name = "Label80"
         Me.Label80.Size = New System.Drawing.Size(150, 20)
         Me.Label80.TabIndex = 28
@@ -5977,40 +6126,44 @@ Partial Class Form1
         '
         'd12text
         '
-        Me.d12text.Location = New System.Drawing.Point(293, 362)
+        Me.d12text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.d12text.Location = New System.Drawing.Point(363, 362)
         Me.d12text.Name = "d12text"
-        Me.d12text.Size = New System.Drawing.Size(95, 20)
+        Me.d12text.Size = New System.Drawing.Size(95, 29)
         Me.d12text.TabIndex = 27
         '
         'd11text
         '
-        Me.d11text.Location = New System.Drawing.Point(293, 339)
+        Me.d11text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.d11text.Location = New System.Drawing.Point(363, 334)
         Me.d11text.Name = "d11text"
-        Me.d11text.Size = New System.Drawing.Size(95, 20)
+        Me.d11text.Size = New System.Drawing.Size(95, 29)
         Me.d11text.TabIndex = 25
         '
         'Label82
         '
         Me.Label82.AutoSize = True
-        Me.Label82.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label82.Location = New System.Drawing.Point(36, 499)
+        Me.Label82.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label82.Location = New System.Drawing.Point(36, 536)
         Me.Label82.Name = "Label82"
-        Me.Label82.Size = New System.Drawing.Size(246, 13)
+        Me.Label82.Size = New System.Drawing.Size(307, 16)
         Me.Label82.TabIndex = 24
         Me.Label82.Text = "Junquillo de aluminio 15 mm guía hoja móvil BW52"
         '
         'd10text
         '
-        Me.d10text.Location = New System.Drawing.Point(293, 316)
+        Me.d10text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.d10text.Location = New System.Drawing.Point(363, 306)
         Me.d10text.Name = "d10text"
-        Me.d10text.Size = New System.Drawing.Size(95, 20)
+        Me.d10text.Size = New System.Drawing.Size(95, 29)
         Me.d10text.TabIndex = 23
         '
         'd9text
         '
-        Me.d9text.Location = New System.Drawing.Point(293, 293)
+        Me.d9text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.d9text.Location = New System.Drawing.Point(363, 278)
         Me.d9text.Name = "d9text"
-        Me.d9text.Size = New System.Drawing.Size(95, 20)
+        Me.d9text.Size = New System.Drawing.Size(95, 29)
         Me.d9text.TabIndex = 21
         '
         'Label85
@@ -6027,7 +6180,7 @@ Partial Class Form1
         '
         Me.Label86.AutoSize = True
         Me.Label86.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label86.Location = New System.Drawing.Point(173, 50)
+        Me.Label86.Location = New System.Drawing.Point(173, 23)
         Me.Label86.Name = "Label86"
         Me.Label86.Size = New System.Drawing.Size(57, 13)
         Me.Label86.TabIndex = 18
@@ -6035,33 +6188,36 @@ Partial Class Form1
         '
         'd3text
         '
-        Me.d3text.Location = New System.Drawing.Point(293, 118)
+        Me.d3text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.d3text.Location = New System.Drawing.Point(363, 94)
         Me.d3text.Name = "d3text"
-        Me.d3text.Size = New System.Drawing.Size(95, 20)
+        Me.d3text.Size = New System.Drawing.Size(95, 29)
         Me.d3text.TabIndex = 17
         '
         'Label87
         '
         Me.Label87.AutoSize = True
-        Me.Label87.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label87.Location = New System.Drawing.Point(36, 231)
+        Me.Label87.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label87.Location = New System.Drawing.Point(36, 237)
         Me.Label87.Name = "Label87"
-        Me.Label87.Size = New System.Drawing.Size(253, 13)
+        Me.Label87.Size = New System.Drawing.Size(313, 16)
         Me.Label87.TabIndex = 16
         Me.Label87.Text = "Junquillo en aluminio de 23 mm guía hoja fija BW52 "
         '
         'd2text
         '
-        Me.d2text.Location = New System.Drawing.Point(293, 95)
+        Me.d2text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.d2text.Location = New System.Drawing.Point(363, 66)
         Me.d2text.Name = "d2text"
-        Me.d2text.Size = New System.Drawing.Size(95, 20)
+        Me.d2text.Size = New System.Drawing.Size(95, 29)
         Me.d2text.TabIndex = 15
         '
         'd1text
         '
-        Me.d1text.Location = New System.Drawing.Point(293, 72)
+        Me.d1text.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.d1text.Location = New System.Drawing.Point(363, 38)
         Me.d1text.Name = "d1text"
-        Me.d1text.Size = New System.Drawing.Size(95, 20)
+        Me.d1text.Size = New System.Drawing.Size(95, 29)
         Me.d1text.TabIndex = 13
         '
         'Panel2
@@ -6081,16 +6237,17 @@ Partial Class Form1
         Me.Panel2.Controls.Add(Me.HVFtext)
         Me.Panel2.Controls.Add(Me.Label39)
         Me.Panel2.Controls.Add(Me.AVFtext)
-        Me.Panel2.Location = New System.Drawing.Point(387, 125)
+        Me.Panel2.Location = New System.Drawing.Point(424, 133)
         Me.Panel2.Name = "Panel2"
-        Me.Panel2.Size = New System.Drawing.Size(369, 134)
+        Me.Panel2.Size = New System.Drawing.Size(414, 136)
         Me.Panel2.TabIndex = 11
         '
         'HVMLtext
         '
-        Me.HVMLtext.Location = New System.Drawing.Point(276, 101)
+        Me.HVMLtext.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.HVMLtext.Location = New System.Drawing.Point(302, 101)
         Me.HVMLtext.Name = "HVMLtext"
-        Me.HVMLtext.Size = New System.Drawing.Size(74, 20)
+        Me.HVMLtext.Size = New System.Drawing.Size(74, 29)
         Me.HVMLtext.TabIndex = 32
         '
         'Label108
@@ -6106,18 +6263,19 @@ Partial Class Form1
         '
         'AVMLtext
         '
-        Me.AVMLtext.Location = New System.Drawing.Point(180, 101)
+        Me.AVMLtext.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.AVMLtext.Location = New System.Drawing.Point(206, 101)
         Me.AVMLtext.Name = "AVMLtext"
-        Me.AVMLtext.Size = New System.Drawing.Size(81, 20)
+        Me.AVMLtext.Size = New System.Drawing.Size(81, 29)
         Me.AVMLtext.TabIndex = 32
         '
         'Label106
         '
         Me.Label106.AutoSize = True
-        Me.Label106.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label106.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label106.Location = New System.Drawing.Point(5, 104)
         Me.Label106.Name = "Label106"
-        Me.Label106.Size = New System.Drawing.Size(143, 13)
+        Me.Label106.Size = New System.Drawing.Size(176, 16)
         Me.Label106.TabIndex = 11
         Me.Label106.Text = "Medidas Vidrio Móvil (L)" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10)
         '
@@ -6134,70 +6292,74 @@ Partial Class Form1
         'Label36
         '
         Me.Label36.AutoSize = True
-        Me.Label36.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label36.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label36.ForeColor = System.Drawing.SystemColors.WindowText
         Me.Label36.Location = New System.Drawing.Point(4, 52)
         Me.Label36.Name = "Label36"
-        Me.Label36.Size = New System.Drawing.Size(144, 13)
+        Me.Label36.Size = New System.Drawing.Size(180, 16)
         Me.Label36.TabIndex = 1
         Me.Label36.Text = "Medidas Vidrio Hoja Fija"
         '
         'HVMtext
         '
-        Me.HVMtext.Location = New System.Drawing.Point(276, 73)
+        Me.HVMtext.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.HVMtext.Location = New System.Drawing.Point(302, 73)
         Me.HVMtext.Name = "HVMtext"
-        Me.HVMtext.Size = New System.Drawing.Size(74, 20)
+        Me.HVMtext.Size = New System.Drawing.Size(74, 29)
         Me.HVMtext.TabIndex = 8
         '
         'Label37
         '
         Me.Label37.AutoSize = True
-        Me.Label37.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label37.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label37.Location = New System.Drawing.Point(4, 77)
         Me.Label37.Name = "Label37"
-        Me.Label37.Size = New System.Drawing.Size(154, 13)
+        Me.Label37.Size = New System.Drawing.Size(191, 16)
         Me.Label37.TabIndex = 2
         Me.Label37.Text = "Medidas Vidrio Hoja Móvil"
         '
         'AVMtext
         '
-        Me.AVMtext.Location = New System.Drawing.Point(180, 73)
+        Me.AVMtext.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.AVMtext.Location = New System.Drawing.Point(206, 73)
         Me.AVMtext.Name = "AVMtext"
-        Me.AVMtext.Size = New System.Drawing.Size(81, 20)
+        Me.AVMtext.Size = New System.Drawing.Size(81, 29)
         Me.AVMtext.TabIndex = 7
         '
         'Label38
         '
         Me.Label38.AutoSize = True
-        Me.Label38.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label38.Location = New System.Drawing.Point(177, 27)
+        Me.Label38.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label38.Location = New System.Drawing.Point(203, 27)
         Me.Label38.Name = "Label38"
-        Me.Label38.Size = New System.Drawing.Size(84, 13)
+        Me.Label38.Size = New System.Drawing.Size(102, 16)
         Me.Label38.TabIndex = 3
         Me.Label38.Text = "Anchura (mm)"
         '
         'HVFtext
         '
-        Me.HVFtext.Location = New System.Drawing.Point(276, 44)
+        Me.HVFtext.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.HVFtext.Location = New System.Drawing.Point(302, 45)
         Me.HVFtext.Name = "HVFtext"
-        Me.HVFtext.Size = New System.Drawing.Size(74, 20)
+        Me.HVFtext.Size = New System.Drawing.Size(74, 29)
         Me.HVFtext.TabIndex = 6
         '
         'Label39
         '
         Me.Label39.AutoSize = True
-        Me.Label39.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label39.Location = New System.Drawing.Point(280, 26)
+        Me.Label39.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label39.Location = New System.Drawing.Point(306, 26)
         Me.Label39.Name = "Label39"
-        Me.Label39.Size = New System.Drawing.Size(70, 13)
+        Me.Label39.Size = New System.Drawing.Size(86, 16)
         Me.Label39.TabIndex = 4
         Me.Label39.Text = "Altura (mm)"
         '
         'AVFtext
         '
-        Me.AVFtext.Location = New System.Drawing.Point(180, 44)
+        Me.AVFtext.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.AVFtext.Location = New System.Drawing.Point(206, 45)
         Me.AVFtext.Name = "AVFtext"
-        Me.AVFtext.Size = New System.Drawing.Size(81, 20)
+        Me.AVFtext.Size = New System.Drawing.Size(81, 29)
         Me.AVFtext.TabIndex = 5
         '
         'Panel10
@@ -6217,9 +6379,9 @@ Partial Class Form1
         Me.Panel10.Controls.Add(Me.HHFtext)
         Me.Panel10.Controls.Add(Me.Label33)
         Me.Panel10.Controls.Add(Me.AHFtext)
-        Me.Panel10.Location = New System.Drawing.Point(39, 125)
+        Me.Panel10.Location = New System.Drawing.Point(39, 133)
         Me.Panel10.Name = "Panel10"
-        Me.Panel10.Size = New System.Drawing.Size(343, 134)
+        Me.Panel10.Size = New System.Drawing.Size(374, 138)
         Me.Panel10.TabIndex = 10
         '
         'Label107
@@ -6234,32 +6396,34 @@ Partial Class Form1
         '
         'HHMLtext
         '
-        Me.HHMLtext.Location = New System.Drawing.Point(252, 102)
+        Me.HHMLtext.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.HHMLtext.Location = New System.Drawing.Point(283, 102)
         Me.HHMLtext.Name = "HHMLtext"
-        Me.HHMLtext.Size = New System.Drawing.Size(74, 20)
+        Me.HHMLtext.Size = New System.Drawing.Size(74, 29)
         Me.HHMLtext.TabIndex = 12
         '
         'AHMLtext
         '
-        Me.AHMLtext.Location = New System.Drawing.Point(149, 102)
+        Me.AHMLtext.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.AHMLtext.Location = New System.Drawing.Point(180, 102)
         Me.AHMLtext.Name = "AHMLtext"
-        Me.AHMLtext.Size = New System.Drawing.Size(81, 20)
+        Me.AHMLtext.Size = New System.Drawing.Size(81, 29)
         Me.AHMLtext.TabIndex = 11
         '
         'Label105
         '
         Me.Label105.AutoSize = True
-        Me.Label105.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label105.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label105.Location = New System.Drawing.Point(7, 105)
         Me.Label105.Name = "Label105"
-        Me.Label105.Size = New System.Drawing.Size(137, 13)
+        Me.Label105.Size = New System.Drawing.Size(168, 16)
         Me.Label105.TabIndex = 10
         Me.Label105.Text = "Medidas Hoja Móvil (L)" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10)
         '
         'Label34
         '
         Me.Label34.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, CType((System.Drawing.FontStyle.Bold Or System.Drawing.FontStyle.Underline), System.Drawing.FontStyle), System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label34.Location = New System.Drawing.Point(14, 5)
+        Me.Label34.Location = New System.Drawing.Point(14, 3)
         Me.Label34.Name = "Label34"
         Me.Label34.Size = New System.Drawing.Size(342, 24)
         Me.Label34.TabIndex = 9
@@ -6269,71 +6433,74 @@ Partial Class Form1
         'Label30
         '
         Me.Label30.AutoSize = True
-        Me.Label30.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label30.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label30.ForeColor = System.Drawing.SystemColors.WindowText
         Me.Label30.Location = New System.Drawing.Point(7, 53)
         Me.Label30.Name = "Label30"
-        Me.Label30.Size = New System.Drawing.Size(108, 13)
+        Me.Label30.Size = New System.Drawing.Size(135, 16)
         Me.Label30.TabIndex = 1
         Me.Label30.Text = "Medidas Hoja Fija"
         '
         'HHMtext
         '
-        Me.HHMtext.Location = New System.Drawing.Point(252, 74)
+        Me.HHMtext.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.HHMtext.Location = New System.Drawing.Point(283, 74)
         Me.HHMtext.Name = "HHMtext"
-        Me.HHMtext.Size = New System.Drawing.Size(74, 20)
+        Me.HHMtext.Size = New System.Drawing.Size(74, 29)
         Me.HHMtext.TabIndex = 8
         '
         'Label31
         '
         Me.Label31.AutoSize = True
-        Me.Label31.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label31.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label31.Location = New System.Drawing.Point(7, 78)
         Me.Label31.Name = "Label31"
-        Me.Label31.Size = New System.Drawing.Size(118, 13)
+        Me.Label31.Size = New System.Drawing.Size(146, 16)
         Me.Label31.TabIndex = 2
         Me.Label31.Text = "Medidas Hoja Móvil"
         '
         'AHMtext
         '
-        Me.AHMtext.Location = New System.Drawing.Point(149, 74)
+        Me.AHMtext.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.AHMtext.Location = New System.Drawing.Point(180, 74)
         Me.AHMtext.Name = "AHMtext"
-        Me.AHMtext.Size = New System.Drawing.Size(81, 20)
+        Me.AHMtext.Size = New System.Drawing.Size(81, 29)
         Me.AHMtext.TabIndex = 7
         '
         'Label32
         '
         Me.Label32.AutoSize = True
-        Me.Label32.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label32.Location = New System.Drawing.Point(146, 28)
+        Me.Label32.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label32.Location = New System.Drawing.Point(177, 28)
         Me.Label32.Name = "Label32"
-        Me.Label32.Size = New System.Drawing.Size(84, 13)
+        Me.Label32.Size = New System.Drawing.Size(102, 16)
         Me.Label32.TabIndex = 3
         Me.Label32.Text = "Anchura (mm)"
         '
         'HHFtext
         '
-        Me.HHFtext.Location = New System.Drawing.Point(252, 45)
+        Me.HHFtext.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.HHFtext.Location = New System.Drawing.Point(283, 46)
         Me.HHFtext.Name = "HHFtext"
-        Me.HHFtext.Size = New System.Drawing.Size(74, 20)
+        Me.HHFtext.Size = New System.Drawing.Size(74, 29)
         Me.HHFtext.TabIndex = 6
         '
         'Label33
         '
         Me.Label33.AutoSize = True
-        Me.Label33.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label33.Location = New System.Drawing.Point(256, 28)
+        Me.Label33.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label33.Location = New System.Drawing.Point(287, 28)
         Me.Label33.Name = "Label33"
-        Me.Label33.Size = New System.Drawing.Size(70, 13)
+        Me.Label33.Size = New System.Drawing.Size(86, 16)
         Me.Label33.TabIndex = 4
         Me.Label33.Text = "Altura (mm)"
         '
         'AHFtext
         '
-        Me.AHFtext.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!)
-        Me.AHFtext.Location = New System.Drawing.Point(149, 45)
+        Me.AHFtext.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.AHFtext.Location = New System.Drawing.Point(180, 46)
         Me.AHFtext.Name = "AHFtext"
-        Me.AHFtext.Size = New System.Drawing.Size(81, 20)
+        Me.AHFtext.Size = New System.Drawing.Size(81, 29)
         Me.AHFtext.TabIndex = 5
         '
         'TabPage6
